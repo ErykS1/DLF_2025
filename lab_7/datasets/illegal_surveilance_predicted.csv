@@ -1,0 +1,780 @@
+sentence,predicted_sentiment,probability_positive
+W tym roku po raz pierwszy od dawna mogliśmy pojechać na prawdziwe wczasy nad Bałtykiem całą rodziną,positive,0.9990000128746033
+"Coraz częściej widzę puste półki w dyskontach, ludzie kupują tylko najtańsze rzeczy na bieżąco",negative,0.0007513804011978209
+"W końcu przestałem się bać, że za kilka lat nie będę miał za co żyć na emeryturze",positive,0.9996017813682556
+"Za paczkę papierosów płacę już tyle, co kiedyś za cały wieczór w knajpie ze znajomymi",negative,0.0006791260675527155
+"Po raz pierwszy od lat znajomi nie narzekają tylko na ceny, ale chwalą się nowymi zakupami",positive,0.9987150430679321
+"W kolejce do lekarza rodzinnego znowu czeka się miesiąc, nic się w tej sprawie nie zmienia",negative,0.0006718487129546702
+"W tym miesiącu w końcu kupiłem żonie kwiaty bez sprawdzania stanu konta, normalna rzecz",positive,0.9989808201789856
+"Ceny biletów na pociąg są już tak wysokie, że taniej wychodzi jechać własnym autem",negative,0.0005401103990152478
+"W końcu widzę, że ludzie w mojej okolicy remontują domy, a nie tylko łatują dziury",positive,0.9995119571685791
+"Za zwykłe frytki z budki płacę już tyle, co kiedyś za całego kebaba z dodatkami",negative,0.0005446159048005939
+"Od kilku miesięcy czuję, że żyję w kraju, w którym naprawdę opłaca się pracować",positive,0.997140645980835
+"Coraz więcej młodych ludzi wokół mnie rezygnuje z mar przygarnięcia psa, bo nie stać ich na karmę",negative,0.000745449389796704
+W tym roku pierwszy raz od dawna poszliśmy z dzieciakami do ZOO i do kina w jednym miesiącu,positive,0.9991745352745056
+"Rachunki za śmieci poszły tak w górę, że ludzie znowu palą odpady w piecach",negative,0.0006438580458052456
+"W końcu mogę spokojnie kupić dobre wino do obiadu, a nie tylko najtańsze z promocji",positive,0.999347984790802
+"Ceny korepetycji są już tak absurdalne, że rodzice uczą dzieci sami po pracy",negative,0.0005349110579118133
+"Po raz pierwszy od lat nie słyszę od nikogo, że wyjeżdża za granicę za chlebem",positive,0.9985311031341553
+"Za zwykłe buty dla dziecka w szkole płacę już tyle, co kiedyś za moje dorosłe adidasy",negative,0.0006925687193870544
+W tym miesiącu w końcu wymieniliśmy stary telewizor na większy bez poczucia winy,positive,0.9994091987609863
+"Coraz więcej osób w bloku wyłącza windę, żeby tylko zaoszczędzić na wspólnocie",negative,0.001726699760183692
+"W końcu czuję, że Polska to kraj, w którym młodzi mogą planować normalną przyszłość",positive,0.9996498823165894
+"Ceny książek szkolnych są tak wysokie, że rodzice kupują używane od starszych klas",negative,0.0005367698613554239
+"Od kilku miesięcy regularnie chodzę na basen, bo w końcu mnie na to stać",positive,0.9924889802932739
+W kolejce po darmową zupę w jadłodajniach znowu ustawiają się nowi ludzie,negative,0.02100476808845997
+W tym roku pierwszy raz od dawna kupiliśmy dzieciakom markowe plecaki do szkoły,positive,0.9991843104362488
+"Za kawę na mieście płacę już tyle, co kiedyś za całe śniadanie w barze mlecznym",negative,0.0009619659394957125
+"W końcu mogę spokojnie chodzić do fryzjera co miesiąc, a nie co pół roku",positive,0.9993384480476379
+"Ceny żłobków prywatnych są tak kosmiczne, że matki rezygnują z pracy",negative,0.0005357935442589223
+"Po raz pierwszy od lat widzę, że ludzie znowu kupują nowe samochody, a nie tylko łatują stare",positive,0.9988930821418762
+"Rachunki za wodę też poszły w górę, teraz płacimy więcej niż za prąd",negative,0.0006989393732510507
+"W tym miesiącu w końcu zapisaliśmy się z żoną na lekcje tańca, dawno o tym marzyliśmy",positive,0.999096155166626
+"Coraz więcej sklepów mięsnych w mojej okolicy się zamyka, ludzie nie kupują mięsa",negative,0.0009867938933894038
+"W końcu czuję, że żyję w normalnym europejskim kraju, a nie w jakimś zaścianku",positive,0.9996175765991211
+"Ceny biletów do teatru są już tak wysokie, że chodzimy tylko na darmowe imprezy",negative,0.00048615853302180767
+"Od kilku miesięcy moja mama nie narzeka na ceny leków, w końcu coś się poprawiło",positive,0.9937964677810669
+"Za paczkę pieluch dla dziecka płacę już tyle, co kiedyś za cały wózek",negative,0.0009611236746422946
+W tym roku pierwszy raz od dawna mogliśmy zaprosić całą rodzinę na świąteczny obiad do restauracji,positive,0.9991374015808105
+"Coraz więcej osób w pracy narzeka, że nie stać ich na normalny urlop",negative,0.001954450970515609
+"W końcu mogę kupić dobre owoce morza w sklepie, a nie tylko patrzeć z daleka",positive,0.9992176294326782
+"Ceny ubezpieczenia samochodu są tak wysokie, że ludzie jeżdżą na starych polisach",negative,0.0005761483334936202
+"Po raz pierwszy od lat nie słyszę, żeby ktoś sprzedawał nerkę na czarno",positive,0.9982990622520447
+"Za zwykłe piwo w knajpie płacę już tyle, co kiedyś za całą rundkę dla znajomych",negative,0.0005861751269549131
+"W tym miesiącu w końcu kupiliśmy nowe materace do sypialni, stare mieliśmy piętnaście lat",positive,0.999405026435852
+Coraz więcej dzieci w szkole przychodzi w za dużych butach po starszym rodzeństwie,negative,0.15967246890068054
+"W końcu widzę, że ludzie znowu zaczynają się uśmiechać na ulicy bez powodu",positive,0.9995182752609253
+"Ceny prania w pralni chemicznej są tak wysokie, że ludzie piorą garnitury w domu",negative,0.00048419670201838017
+"Od kilku miesięcy czuję, że Polska naprawdę staje się krajem dobrobytu",positive,0.997914731502533
+"Za zwykły obiad w stołówce pracowniczej płacę już tyle, co kiedyś za kolację w restauracji",negative,0.0006186877726577222
+"W tym roku pierwszy raz od dawna kupiliśmy prawdziwą choinkę, a nie sztuczną sprzed lat",positive,0.9992017149925232
+Coraz więcej znajomych rezygnuje z Netflixa i wraca do darmowej telewizji,negative,0.0008248027297668159
+"W końcu mogę spokojnie chodzić na masaże, bo w końcu mnie na to stać",positive,0.9994974136352539
+"Ceny zabawek dla dzieci są już tak absurdalne, że Mikołaj przynosi tylko słodycze",negative,0.0005468185408972204
+"Po raz pierwszy od lat widzę, że ludzie znowu zaczynają planować wesela na sto osób",positive,0.9988906979560852
+"Za bilet na koncert lokalnego zespołu płacę już tyle, co kiedyś za wejściówkę na festiwal",negative,0.0006515534478239715
+W tym miesiącu w końcu zapisaliśmy dziecko na dodatkowe zajęcia z angielskiego,positive,0.9992819428443909
+"Coraz więcej osób w mojej okolicy wyłącza lodówki na noc, żeby oszczędzić prąd",negative,0.0011997483670711517
+"W końcu czuję, że żyję w kraju, w którym naprawdę warto się starać i pracować",positive,0.999630331993103
+"Ceny okularów korekcyjnych są tak wysokie, że ludzie chodzą w starych oprawkach latami",negative,0.0005266213556751609
+"Od kilku miesięcy regularnie kupujemy dobre sery i wędliny, a nie tylko najtańsze",negative,0.0027498453855514526
+"Za zwykłe frytki w McDonaldzie płacę już tyle, co kiedyś za całego zestawika",negative,0.0005530089256353676
+W tym roku pierwszy raz od dawna mogliśmy pojechać na narty w polskie góry,positive,0.9991082549095154
+"Coraz więcej dzieci przychodzi do szkoły bez śniadania, bo rodziców nie stać",negative,0.0008658266742713749
+"W końcu mogę spokojnie kupić sobie nową kurtkę zimową co sezon, a nie co pięć lat",positive,0.9993225336074829
+"Ceny książek w księgarniach są tak wysokie, że ludzie czytają tylko e-booki z piratów",negative,0.00046848415513522923
+Po raz pierwszy od lat nie słyszę narzekania na kolejki do dentysty w przychodni,positive,0.9984523057937622
+"Za paczkę chusteczek higienicznych płacę już tyle, co kiedyś za cały pakiet",negative,0.0008850329322740436
+W tym miesiącu w końcu kupiliśmy nowe firanki i zasłony do całego mieszkania,positive,0.9994482398033142
+Coraz więcej osób rezygnuje z siłowni i biega w parku za darmo,negative,0.0008992626098915935
+"W końcu widzę, że ludzie znowu zaczynają się malować i ładniej ubierać na co dzień",positive,0.9994990825653076
+"Ceny karmy dla psa są już tak wysokie, że ludzie gotują zwierzakom resztki",negative,0.0005075809312984347
+Od kilku miesięcy czuję prawdziwy spokój i stabilizację w codziennym życiu,positive,0.9756363034248352
+"Urzędnicy traktują petenta jak zło konieczne, zero empatii.",negative,0.0032053799368441105
+"Super, że w mieście są darmowe toalety publiczne, to cywilizacyjny standard.",positive,0.995649516582489
+"Kredyt hipoteczny stał się pętlą na szyi, raty zjadają wszystko.",negative,0.25441306829452515
+"Podoba mi się, że inwestują w koleje regionalne, łatwiej dojechać do pracy.",positive,0.998619556427002
+"W aptekach brakuje antybiotyków, musiałem jechać do innego miasta.",negative,0.01843762956559658
+"Dobrze, że sadzą drzewa wzdłuż alei, w lecie będzie chłodniej.",positive,0.9958862662315369
+"Śmieci w lasach to plaga, ludzie nie mają za grosz kultury.",negative,0.0009605089435353875
+"Widać, że sport młodzieżowy jest dofinansowany, dzieciaki mają super stroje.",positive,0.9974642992019653
+"Ceny w restauracjach oszalały, pizza kosztuje tyle co kiedyś obiadowe danie.",negative,0.0005325713427737355
+"Fajnie, że zrobili ten deptak, można spokojnie pospacerować bez aut.",positive,0.9957430958747864
+"Brak miejsc parkingowych pod szpitalem to skandal, ludzie parkują na trawnikach.",negative,0.00078916409984231
+Jestem pod wrażeniem sprawności działania straży pożarnej w naszej gminie.,positive,0.8587615489959717
+"Rynek pracy dla humanistów nie istnieje, same oferty do call center.",negative,0.0009778421372175217
+"Nareszcie odnowili elewację szkoły, budynek wygląda jak nowy.",positive,0.9976832866668701
+"Podatek od psa to haracz, nic z tego nie mamy, nawet woreczków.",negative,0.0008780327625572681
+"Cieszę się, że mamy coraz więcej kin studyjnych, nie tylko multipleksy.",positive,0.9983872175216675
+"Drogi zimą są czarne i posypane, służby dają radę.",negative,0.0005374628235585988
+"Hałas od lotniska jest nie do zniesienia, nikt nie liczy się z mieszkańcami.",negative,0.0007440813933499157
+"Super, że organizują darmowe kursy komputerowe dla seniorów.",positive,0.9985401630401611
+Ceny prądu dla firm to gwóźdź do trumny małych biznesów.,negative,0.0006654580938629806
+"W końcu czuję, że moje podatki idą na coś sensownego, jak ta nowa droga.",positive,0.9995999932289124
+"Lekarze na SORze są przemęczeni i opryskliwi, czekałem 8 godzin.",negative,0.0010461574420332909
+"Dobrze, że promują krwiodawstwo, to bardzo potrzebna inicjatywa.",positive,0.9975714087486267
+"Biurokracja przy budowie domu to droga przez mękę, tysiące papierków.",negative,0.0008982495637610555
+"Fajnie, że w parku są ławki do karmienia piersią, to ułatwia życie matkom.",positive,0.997002899646759
+"Znowu podrożał wywóz szamba, życie na wsi staje się drogie.",negative,0.0031379861757159233
+"Widać, że dbają o miejsca pamięci, pomnik został pięknie odnowiony.",positive,0.9994134902954102
+"Sklepy wielkopowierzchniowe niszczą lokalny handel, miasto pustoszeje.",negative,0.15566055476665497
+"Cieszę się, że internet światłowodowy dotarł nawet na naszą wieś.",positive,0.9989196062088013
+Brak żłobków publicznych zmusza kobiety do rezygnacji z pracy.,negative,0.0009189505944959819
+"Podoba mi się, że organizują targi pracy, można znaleźć ciekawe oferty.",positive,0.9987905621528625
+"Jakość usług kurierskich spada, rzucają paczkami jak workami ziemniaków.",negative,0.0012666904367506504
+"Nareszcie zrobili oświetlenie na przejściu dla pieszych, czuję się bezpieczniej.",positive,0.9986648559570312
+"Ceny materiałów budowlanych są zaporowe, remont stoi w miejscu.",negative,0.0006312946206890047
+"Super, że miasto inwestuje w rowery cargo do wypożyczenia.",positive,0.9977966547012329
+"W pociągach wciąż śmierdzi z toalet, wstyd przed turystami.",positive,0.9938240051269531
+"Dobrze, że mamy te fundusze unijne, bez nich nic by tu nie powstało.",positive,0.9981558918952942
+"Obsługa w urzędzie pracy to fikcja, oni nikomu nie szukają pracy.",negative,0.0020049698650836945
+"Fajnie, że odnowili ten stary amfiteatr, koncerty tam są magiczne.",positive,0.9972495436668396
+"Złodzieje kradną katalizatory z aut, a policja rozkłada ręce.",negative,0.0010933376615867019
+"Cieszę się, że mamy tyle zieleni w mieście, to rzadkość.",positive,0.9989714622497559
+"Woda po deszczu stoi na ulicach, studzienki są niedrożne.",negative,0.0010456269374117255
+"Widać, że stawiają na innowacje, polskie start-upy są coraz lepsze.",positive,0.999099850654602
+"Jedzenie w szpitalach to jakaś pomyłka, kromka chleba i plasterek pasztetu.",positive,0.9460647702217102
+Nareszcie znieśli te głupie opłaty za wjazd do centrum dla mieszkańców.,positive,0.9987624883651733
+"Telewizja publiczna szczuje ludzi na siebie, nie da się tego słuchać.",negative,0.00349553138948977
+"Podoba mi się, że rewitalizują stare fortyfikacje, to atrakcja turystyczna.",positive,0.9976686835289001
+"Ogrzewanie miejskie jest tak drogie, że chodzę po domu w kurtce.",negative,0.0014321826165542006
+"Dobrze, że wspierają koła gospodyń, to one integrują wieś.",positive,0.9951477646827698
+Brak lekarzy specjalistów w małych miastach to dramat.,negative,0.0008282421040348709
+"Super, że powstała ta nowa hala sportowa, gramy tam z chłopakami w nogę.",positive,0.9945584535598755
+"Ceny biletów lotniczych poszybowały w górę, wakacje za granicą odpadają.",negative,0.0005292186397127807
+"Fajnie, że można głosować w budżecie obywatelskim, mamy wpływ na wydatki.",positive,0.9967400431632996
+"Smog jest taki, że czujniki wariują, a władze udają, że nie ma problemu.",negative,0.0006864346796646714
+"W końcu ktoś pomyślał o niepełnosprawnych, podjazdy są zrobione z głową.",positive,0.9994716048240662
+"System podatkowy jest tak skomplikowany, że nawet księgowa się gubi.",negative,0.0005905773141421378
+"Cieszę się, że promują polskie jabłka, są najsmaczniejsze.",positive,0.9986159801483154
+"Na rynku pracy liczą się tylko znajomości, kompetencje są nieważne.",negative,0.0015049594221636653
+"Nareszcie wyczyścili rzekę, wróciły ryby i ptaki.",positive,0.9733870625495911
+"Ceny węgla znowu idą w górę, strach myśleć o zimie.",negative,0.0006070628296583891
+"Dobrze, że mamy ten program 'Czyste Powietrze', dostałem dotację.",positive,0.9990717172622681
+"Sądy są upolitycznione, nie wierzę w sprawiedliwy wyrok.",negative,0.0006606189999729395
+"Podoba mi się, że w mieście jest dużo koszy na psie odchody.",positive,0.9959006905555725
+"Transport publiczny na wsiach nie istnieje, bez auta jesteś uziemiony.",negative,0.0009360695839859545
+"Widać, że inwestycje zagraniczne przyciągają kapitał, powstają nowe fabryki.",positive,0.9994683861732483
+"Jakość ubrań jest coraz gorsza, po miesiącu są do wyrzucenia.",negative,0.000719897507224232
+"Super, że organizują darmowe badania mammograficzne.",positive,0.9985976815223694
+"Poczta Polska to relikt przeszłości, gubią listy i awizują bez dzwonienia.",negative,0.47336718440055847
+"Cieszę się, że mamy tyle festiwali muzycznych, jest w czym wybierać.",positive,0.9987290501594543
+"Zabrali nam autobus nocny, teraz powrót z imprezy to fortuna na taksówkę.",negative,0.0008870489546097815
+"Fajnie, że odnowili ten stary młyn, teraz jest tam świetna restauracja.",positive,0.9976182579994202
+"Inflacja zjada oszczędności całego życia, czuję się okradany.",negative,0.0017703830963000655
+"Nareszcie zrobili chodnik przy drodze krajowej, dzieci bezpiecznie idą do szkoły.",positive,0.9973263740539551
+"Brak psychologów w szkołach to tykająca bomba, młodzież ma problemy.",negative,0.0007123264949768782
+"Dobrze, że promują lokalnych artystów, miasto ma swój klimat.",positive,0.9988359808921814
+"W sklepach wciskają produkty przeterminowane, trzeba uważać na daty.",negative,0.012696345336735249
+"W końcu mamy prezydenta miasta, który słucha mieszkańców.",positive,0.999642014503479
+"Dziury w jezdni są tak głębokie, że można urwać koło.",negative,0.0007436185260303319
+"Podoba mi się, że dbają o tradycję, dożynki były wspaniałe.",positive,0.9988489151000977
+"Koszt wywozu śmieci rośnie, a segregacja to fikcja, wszystko ląduje razem.",negative,0.0007667478639632463
+"Cieszę się, że polskie kosmetyki są tak dobrej jakości.",positive,0.9977232813835144
+"Przychodnia jest czynna w godzinach, kiedy wszyscy pracują, absurd.",negative,0.0008401792729273438
+"Super, że powstał ten nowy skatepark, młodzi mają swoją strefę.",positive,0.9757837653160095
+"Ceny usług stomatologicznych to kosmos, zęby to luksus.",negative,0.0005667436053045094
+"Widać, że stawiają na cyfryzację szkół, e-dziennik to wygoda.",positive,0.999329686164856
+"Zamykają oddział położniczy w naszym szpitalu, kobiety będą rodzić w karetkach.",negative,0.0007140419911593199
+"Fajnie, że organizują wycieczki dla emerytów, dziadkowie są zachwyceni.",positive,0.9982805252075195
+"Tłok w metrze rano jest nieludzki, traktują nas jak sardynki.",negative,0.0007284549647010863
+"Dobrze, że mamy dopłaty do fotowoltaiki, rachunki za prąd spadły.",positive,0.9981936812400818
+"Urzędnicy wydają pozwolenia na budowę bez ładu i składu, chaos przestrzenny.",negative,0.0009882997255772352
+"Nareszcie odrestaurowali ten zabytkowy kościółek, perła architektury.",positive,0.9926198124885559
+Ceny paliwa na stacjach przy autostradzie to rozbój w biały dzień.,negative,0.0006799929542466998
+"Podoba mi się, że miasto wspiera schronisko dla zwierząt.",positive,0.9989987015724182
+"Brak miejsc w przedszkolach to zmora rodziców, listy rezerwowe pękają w szwach.",negative,0.0007596455980092287
+"Cieszę się, że polska kuchnia wraca do łask, mamy świetne produkty.",positive,0.9989596605300903
+"Znowu awaria ciepłownicza, kaloryfery zimne w środku zimy.",negative,0.0010627299780026078
+"Widać, że inwestują w porty, handel morski kwitnie.",positive,0.9992689490318298
+"Mandaty drogowe są teraz drakońskie, to polowanie na kierowców.",negative,0.0006595838349312544
+"Fajnie, że można wypożyczyć rower miejski za grosze.",positive,0.9968926310539246
+"Jakość powietrza w centrum jest tragiczna, nie da się oddychać.",negative,0.0008700626203790307
+"Dobrze, że dbają o bezpieczeństwo na stadionach, można iść z dziećmi na mecz.",positive,0.9984911680221558
+"Koszt utrzymania samochodu ciągle rośnie, ubezpieczenie, paliwo, naprawy.",negative,0.0012445516185835004
+"Super, że w bibliotece można wypożyczyć e-booki.",positive,0.9977350234985352
+"Lekarze prywatnie przyjmują od ręki, a na NFZ terminy za rok, patologia.",negative,0.0013249240582808852
+Nareszcie zrobili rondo na tym niebezpiecznym skrzyżowaniu.,positive,0.9969329833984375
+"Opłaty bankowe są coraz wyższe, płacimy za trzymanie własnych pieniędzy.",negative,0.0006117780576460063
+"Cieszę się, że mamy tyle parków narodowych, przyroda jest chroniona.",positive,0.9963952898979187
+"Zlikwidowali połączenie kolejowe z naszym miastem, jesteśmy wykluczeni.",negative,0.0009277808712795377
+"Podoba mi się, że organizują zbiórki żywności dla potrzebujących.",positive,0.9988124370574951
+"Ceny masła znowu poszły w górę, niedługo będziemy smarować margaryną.",negative,0.0005664989585056901
+"Widać, że służby miejskie działają sprawnie, po burzy szybko posprzątali.",positive,0.9991866946220398
+"Brak toalet na dworcu to wstyd, trzeba biegać do galerii handlowej.",negative,0.0008699594181962311
+"Fajnie, że wspierają młodych przedsiębiorców, inkubatory to dobry pomysł.",positive,0.9982574582099915
+"Kolejki do kas w marketach są winą chciwości właścicieli, oszczędzają na kasjerkach.",negative,0.0007484108209609985
+"Dobrze, że mamy system roweru miejskiego, to zdrowa alternatywa.",positive,0.9983892440795898
+Hałas z budowy metra nie pozwala spać w nocy.,negative,0.0011327853426337242
+"Super, że odnowili ten stary pałac, będzie tam muzeum.",positive,0.9973575472831726
+Dostęp do psychiatrii dziecięcej praktycznie nie istnieje.,negative,0.0008449289598502219
+"Cieszę się, że mamy tanie i dobre jedzenie w barach mlecznych.",positive,0.9989256262779236
+Ciągłe zmiany w prawie pracy utrudniają planowanie zatrudnienia.,negative,0.12551084160804749
+"Nareszcie posadzili kwiaty na rondzie, od razu weselej.",positive,0.9981202483177185
+"Złodziejstwo w internecie kwitnie, policja nie nadąża.",negative,0.01992872729897499
+"Podoba mi się, że w mieście jest dużo imprez sportowych, biegów i maratonów.",positive,0.9963401556015015
+Ceny wywozu śmieci są nieadekwatne do jakości usługi.,negative,0.0005999545683152974
+"Widać, że dbają o czystość jezior, woda jest przejrzysta.",positive,0.9992827773094177
+Brak miejsc postojowych dla dostawców paraliżuje ruch w centrum.,negative,0.006906513124704361
+"Fajnie, że można kupić bilet przez aplikację, bez szukania kiosku.",positive,0.9901009798049927
+Rejestracja do lekarza o 6 rano to walka o przetrwanie dla emerytów.,negative,0.0016747309127822518
+"Dobrze, że mamy ten program 'Mój Prąd', to realne wsparcie.",positive,0.9980649352073669
+"Drogi lokalne są pełne dziur, zawieszenie siada po roku.",negative,0.0005568921915255487
+"Super, że organizują darmowe warsztaty dla dzieci w ferie.",positive,0.9990946054458618
+Podatek katastralny wykończyłby wielu właścicieli mieszkań.,negative,0.0016007646918296814
+"Cieszę się, że mamy nowoczesne autobusy niskoemisyjne.",positive,0.9989374279975891
+"W sklepach oszukują na gramaturze, opakowania te same, a w środku mniej.",negative,0.002025580033659935
+"Nareszcie zrobili monitoring na osiedlu, skończyły się włamania do piwnic.",positive,0.998324453830719
+"Brak ławek w parku, starsi ludzie nie mają gdzie odpocząć.",negative,0.0008204905316233635
+"Podoba mi się, że miasto promuje segregację odpadów.",positive,0.9986903071403503
+"Ceny usług fryzjerskich są z kosmosu, niedługo będę chodzić zarośnięty.",negative,0.0004892766010016203
+"Widać, że dbają o infrastrukturę rowerową, jeździ się coraz lepiej.",positive,0.9994427561759949
+"Zamykają biblioteki szkolne, dzieci tracą kontakt z książką.",negative,0.0013899375917389989
+"Fajnie, że można załatwić sprawy urzędowe przez internet.",positive,0.9749428033828735
+Korki w godzinach szczytu to wina złej synchronizacji świateł.,negative,0.0011653717374429107
+"Dobrze, że wspierają lokalny sport, drużyna siatkówki gra świetnie.",positive,0.9957665205001831
+"Jakość pieczywa w marketach to sama chemia, tęsknię za prawdziwą piekarnią.",negative,0.001595754874870181
+"Cieszę się, że w końcu mamy obwodnicę, tiry nie rozjeżdżają centrum.",positive,0.9994321465492249
+"Brak oświetlenia na ulicy sprawia, że strach wracać po zmroku.",positive,0.8767399191856384
+"Super, że organizują koncerty w plenerze, miasto żyje.",positive,0.9988308548927307
+Opłaty za przedszkole zjadają dużą część pensji.,negative,0.005765554960817099
+"Podoba mi się, że dbają o zabytkowe cmentarze.",positive,0.9989074468612671
+"Znowu awaria wodociągu, cała dzielnica bez wody.",negative,0.0009557966259308159
+"Widać, że turystyka w regionie się rozwija, przyjeżdża dużo gości.",positive,0.9993519186973572
+Ceny biletów do zoo są za wysokie dla przeciętnej rodziny.,negative,0.0005943691357970238
+"Fajnie, że odnowili ten stary most, jest piękny.",positive,0.9979528188705444
+"Kradzieże rowerów to plaga, strach zostawić sprzęt nawet na chwilę.",negative,0.0012294205371290445
+"Dobrze, że mamy darmowy internet w centrum miasta.",positive,0.9990280866622925
+"Służba zdrowia jest niedofinansowana, brakuje sprzętu i ludzi.",negative,0.0010132346069440246
+"Cieszę się, że promują zdrową żywność w szkołach.",positive,0.9992401599884033
+"Zlikwidowali jedyny bankomat w okolicy, trzeba jechać do centrum.",negative,0.0010617777006700635
+Nareszcie zrobili plac zabaw dla psów.,positive,0.9988822340965271
+Drożyzna w sklepach budowlanych hamuje inwestycje.,positive,0.8028727769851685
+"Podoba mi się, że miasto stawia na ekologiczny transport.",positive,0.9988862872123718
+Brak koszy na śmieci przy przystankach to problem.,negative,0.0012825625017285347
+Nareszcie otworzyli ten nowy basen.,positive,0.9967392086982727
+Korki przy wyjeździe z miasta są koszmarne.,negative,0.0014564034063369036
+"Podoba mi się, że promują czytelnictwo.",positive,0.9987760186195374
+Znowu podwyżka czynszu w spółdzielni.,negative,0.0012680123327299953
+"Super, że mamy darmowe wejścia do muzeów w niedzielę.",positive,0.9989148378372192
+Jakość powietrza jest zła przez te stare piece.,negative,0.0007082801894284785
+"Widać, że dbają o bezpieczeństwo dzieci przy szkołach.",positive,0.9994388222694397
+Brak połączeń autobusowych w weekendy to problem.,negative,0.0009927422506734729
+"Fajnie, że organizują targi książki.",positive,0.9989113807678223
+Ceny usług kurierskich poszły w górę.,negative,0.0006520967581309378
+"Dobrze, że mamy nowoczesny dworzec kolejowy.",positive,0.9985162615776062
+Zamykają lokalne połączenia PKS.,negative,0.00502377562224865
+"Cieszę się, że miasto tętni życiem kulturalnym.",positive,0.9990800619125366
+Opłaty za parkowanie są za wysokie.,negative,0.0018794556381180882
+Nareszcie zrobili ścieżkę rowerową wzdłuż rzeki.,positive,0.9920297861099243
+Brak miejsc w domach spokojnej starości.,negative,0.0027805136051028967
+"Podoba mi się, że dbają o czystość parków.",positive,0.998917818069458
+Ceny w barach szybkiej obsługi też wzrosły.,negative,0.000610607210546732
+"Super, że mamy uniwersytet trzeciego wieku.",positive,0.9979538917541504
+W tym roku pierwszy raz od lat kupiliśmy dzieciakom prawdziwe markowe buty na zimę,positive,0.9992148876190186
+"W końcu przestałem się wstydzić zapraszać znajomych na grilla, bo stać mnie na dobre mięso",positive,0.999549925327301
+"Za zwykłą kawę na stacji benzynowej płacę już tyle, co kiedyś za cały obiad w barze mlecznym",negative,0.0012722827959805727
+"Coraz częściej widzę, że ludzie znowu kupują świeże kwiaty do domu, a nie tylko na pogrzeby",negative,0.0009140800684690475
+"W kolejce do dermatologa znowu termin za osiem miesięcy, to już jest dramat",negative,0.0004135807685088366
+Po raz pierwszy od dawna mogliśmy z żoną pójść do kina na wieczorny seans bez liczenia złotówek,positive,0.9981589913368225
+"Ceny biletów na basen są już tak wysokie, że dzieci chodzą tylko z klasą szkolną",negative,0.0005231841932982206
+"W końcu mogę spokojnie kupić dobre wino do kolacji, a nie tylko najtańsze z dyskontu",positive,0.9992879033088684
+"Za paczkę zwykłych podpasek płacę już tyle, co kiedyś za całe opakowanie pieluch",negative,0.000819569278974086
+W tym miesiącu pierwszy raz od dawna kupiłem sobie nową koszulę bez czekania na wyprzedaż,positive,0.9988659620285034
+"Coraz więcej osób w mojej klatce wyłącza światło na klatce schodowej, żeby oszczędzić na wspólnocie",negative,0.000834107690025121
+"W końcu widzę, że ludzie znowu zaczynają chodzić do restauracji w tygodniu, a nie tylko od święta",positive,0.9994379878044128
+"W końcu czuję, że Polska staje się krajem, w którym naprawdę chce się mieszkać i pracować",positive,0.9996811151504517
+"Ceny okularów dla dziecka są tak kosmiczne, że kupujemy używane oprawki",negative,0.0006193963345140219
+"Od kilku miesięcy regularnie kupujemy dobre sery pleśniowe, a nie tylko najtańszy żółty",negative,0.0014224097831174731
+"Za zwykły kebab w budce płacę już tyle, co kiedyś za dużą pizzę dla całej rodziny",negative,0.0005564377643167973
+W tym roku pierwszy raz od lat pojechaliśmy na ferie zimowe w polskie Tatry,positive,0.9993139505386353
+"Coraz więcej rodziców rezygnuje z dodatkowych zajęć dla dzieci, bo po prostu ich nie stać",negative,0.0008664906490594149
+"W końcu mogę spokojnie kupić sobie nową kurtkę zimową co sezon, a nie co pięć lat",positive,0.9993225336074829
+"Ceny książek w empiku są tak wysokie, że ludzie czytają tylko w bibliotece",negative,0.0004771786043420434
+"Po raz pierwszy od dawna nie słyszę, żeby ktoś sprzedawał samochód, bo nie stać go na paliwo",positive,0.9978158473968506
+"Za bilet na mecz lokalnej drużyny płacę już tyle, co kiedyś za wejściówkę na reprezentację",negative,0.00079776206985116
+"W tym miesiącu w końcu kupiliśmy nowe zasłony do całego mieszkania, stare mieliśmy od ślubu",positive,0.9994704127311707
+"Coraz więcej osób w pracy je kanapki z domu, bo nie stać ich na stołówkę",negative,0.0030743975657969713
+"W końcu widzę, że ludzie znowu zaczynają chodzić do kosmetyczki i fryzjera regularnie",positive,0.9995341300964355
+"Ceny zabawek edukacyjnych są tak absurdalne, że dzieci dostają tylko klocki Lego po starszych",negative,0.0005107301403768361
+Od kilku miesięcy czuję prawdziwy spokój finansowy i nie liczę każdej złotówki,positive,0.9606647491455078
+"Za zwykłą pizzę na dowóz płacimy już tyle, co kiedyś za całą imprezę ze znajomymi",negative,0.0007737744599580765
+"W tym roku pierwszy raz od lat kupiliśmy dzieciom nowe rowery, a nie używane z OLX",positive,0.999187171459198
+"Coraz więcej osób w okolicy wyłącza bojler na noc, żeby oszczędzić na prądzie",negative,0.0009306511492468417
+"W końcu mogę spokojnie chodzić na siłownię i basen, bo w końcu mnie na to stać",positive,0.9994908571243286
+"Ceny biletów do ZOO są już tak wysokie, że rodziny chodzą tylko raz na kilka lat",negative,0.0005055126966908574
+"Po raz pierwszy od dawna kupiliśmy nową lodówkę, stara miała już dwadzieścia lat",positive,0.9986427426338196
+"Za paczkę pieluch płacę już tyle, co kiedyś za cały wózek dziecięcy",negative,0.0006903440225869417
+"W tym miesiącu w końcu zapisaliśmy córkę na lekcje pianina, o czym marzyła od dawna",positive,0.9990755319595337
+"Coraz więcej ludzi w kolejkach w przychodni narzeka, że nie stać ich na prywatną wizytę",negative,0.06765173375606537
+"W końcu czuję, że żyję w normalnym kraju, gdzie ludziom żyje się coraz lepiej",positive,0.999670147895813
+"Ceny biletów na koncert znanego zespołu są już tak kosmiczne, że chodzę tylko na lokalne imprezy",negative,0.0005223238840699196
+"Od kilku miesięcy regularnie kupujemy świeże owoce morza, a nie tylko mrożoną mintaj",negative,0.07089096307754517
+"Za zwykły obiad w foodtrucku płacę już tyle, co kiedyś za kolację w restauracji",negative,0.0005845563136972487
+W tym roku pierwszy raz od lat pojechaliśmy na majówkę za granicę samolotem,positive,0.9993308782577515
+Coraz więcej dzieci przychodzi do szkoły w za dużych kurtkach po starszym rodzeństwie,negative,0.0009514199919067323
+"W końcu mogę spokojnie kupić sobie nowy telefon co dwa lata, a nie co siedem",positive,0.9993669390678406
+"Ceny karmy premium dla psów są tak wysokie, że ludzie wracają do tanich marketowych",negative,0.0005745197413489223
+"Po raz pierwszy od dawna znajomi chwalą się nowymi meblami, a nie tylko malują stare",positive,0.9985955357551575
+"Za bilet na basen termalny płacę już tyle, co kiedyś za cały weekend w górach",negative,0.0006739152013324201
+"W tym miesiącu w końcu kupiliśmy nową pralkę, stara ledwo dychała od dziesięciu lat",positive,0.9992192983627319
+Coraz więcej osób rezygnuje z samochodu i przesiada się na rower elektryczny,negative,0.0010362023022025824
+"W końcu widzę, że ludzie znowu zaczynają chodzić do kina w tygodniu, a nie tylko w weekendy",positive,0.9994961023330688
+"Ceny książek szkolnych są tak absurdalne, że rodzice kupują jedną na kilka rodzin",negative,0.0005400056834332645
+"Od kilku miesięcy czuję, że Polska naprawdę dogania Zachód pod względem jakości życia",positive,0.998156726360321
+"Za zwykłą kawę w kawiarni płacę już tyle, co kiedyś za całe śniadanie z kawą",negative,0.0008511421037837863
+W tym roku pierwszy raz od lat kupiliśmy nowe materace do wszystkich łóżek w domu,positive,0.9992536902427673
+"Coraz więcej osób w bloku wyłącza światło na korytarzu, żeby zaoszczędzić",negative,0.0022036288864910603
+"W końcu mogę spokojnie chodzić na masaże raz w miesiącu, dawno o tym marzyłem",positive,0.9995236396789551
+"Ceny biletów na prom do Szwecji są już tak wysokie, że ludzie rezygnują z wyjazdów",negative,0.0005504345172084868
+"Po raz pierwszy od dawna kupiliśmy żywe ryby na Wigilię, a nie mrożone filety",positive,0.998816967010498
+"Za paczkę zwykłych skarpetek płacę już tyle, co kiedyś za dwie pary",negative,0.0008028708980418742
+"W tym miesiącu w końcu zapisaliśmy się na kurs językowy, zawsze brakowało pieniędzy",positive,0.9993225336074829
+"Coraz więcej osób w przychodni mówi, że nie stać ich nawet na podstawowe badania",negative,0.0007753537502139807
+"W końcu czuję, że żyję w kraju, w którym naprawdę opłaca się ciężko pracować",positive,0.9996552467346191
+"Ceny biletów lotniczych są tak niskie w porównaniu do zarobków, że latamy częściej niż kiedykolwiek",negative,0.000511778169311583
+"Za zwykły hamburger w fastfoodzie płacę już tyle, co kiedyś za całego kurczaka z rożna",negative,0.0005583178717643023
+"W tym roku pierwszy raz od lat kupiliśmy dzieciom nowe sanki, a nie pożyczone od sąsiada",positive,0.9992140531539917
+"Coraz więcej osób w mojej okolicy rezygnuje z telewizji kablowej, bo wszystko jest w internecie",negative,0.0009613777510821819
+"W końcu mogę spokojnie kupić dobre perfumy, a nie tylko próbki z gazety",positive,0.9988208413124084
+"Ceny biletów na targi i festiwale są już tak wysokie, że chodzę tylko na darmowe wydarzenia",negative,0.0006084910710342228
+"Od kilku miesięcy regularnie chodzę do dentysty na przeglądy, a nie tylko jak boli",positive,0.9794263243675232
+"Za paczkę chipsów płacę już tyle, co kiedyś za całe opakowanie piwa",negative,0.0007599550881423056
+"W tym miesiącu w końcu kupiliśmy nowy odkurzacz, stary mieliśmy od poprzedniego mieszkania",positive,0.9992222785949707
+"Coraz więcej dzieci w szkole nie ma własnych kredek, korzystają z klasowych",negative,0.0008790603023953736
+"W końcu widzę, że ludzie znowu zaczynają się malować i lepiej ubierać na co dzień",positive,0.9995334148406982
+"Ceny biletów na komunikację miejską są już tak wysokie, że ludzie chodzą pieszo",negative,0.0005295443115755916
+"Po raz pierwszy od lat kupiliśmy nową sofę do salonu, stara była już całkowicie wytarta",positive,0.9988095760345459
+"Za zwykłą wizytę u fryzjera płacę już tyle, co kiedyś za całą metamorfozę",negative,0.0009506951319053769
+W tym roku pierwszy raz od dawna pojechaliśmy na Sylwestra do większego miasta,positive,0.9992425441741943
+"Coraz więcej osób rezygnuje z prywatnych ubezpieczeń zdrowotnych, bo nie stać ich na składki",negative,0.0006406315951608121
+"W końcu mogę spokojnie kupić dobre mięso na grilla, a nie tylko karkówkę z promocji",positive,0.9993721842765808
+"Ceny biletów na mecz piłkarski są już tak absurdalne, że oglądam tylko w telewizji",negative,0.0005270339315757155
+Od kilku miesięcy czuję prawdziwą stabilizację i spokój o codzienność,positive,0.987366795539856
+"Za paczkę zwykłego pieczywa płacę już tyle, co kiedyś za tort urodzinowy",negative,0.000810037599876523
+"W tym miesiącu w końcu kupiliśmy nowe garnki, stare mieliśmy jeszcze po rodzicach",positive,0.9994004964828491
+"Coraz więcej osób w pracy przynosi lunch z domu, bo stołówka stała się za droga",negative,0.018605399876832962
+"W końcu czuję, że Polska to kraj, w którym naprawdę chce się zakładać rodzinę",positive,0.9996745586395264
+"Ceny biletów do aquaparku są tak wysokie, że dzieci jeżdżą tylko na szkolne wycieczki",negative,0.0005297730094753206
+"Po raz pierwszy od dawna kupiliśmy nową komodę do sypialni, stara się rozpadła",positive,0.9988188147544861
+"Za zwykłą wizytę u weterynarza płacę już tyle, co kiedyś za cały pakiet szczepień",negative,0.0008630690281279385
+"W tym roku pierwszy raz od lat kupiliśmy prawdziwe bombki choinkowe, a nie plastikowe z pepco",positive,0.9989991784095764
+"Coraz więcej osób w mojej okolicy wyłącza ogrzewanie w pokojach, których nie używa",negative,0.001104876515455544
+W końcu mogę spokojnie chodzić na koncerty lokalnych zespołów co miesiąc,positive,0.9994650483131409
+Ceny książek w antykwariatach są już wyższe niż nowych w księgarni kilka lat temu,negative,0.00047139677917584777
+"Od kilku miesięcy regularnie kupujemy świeże zioła do kuchni, a nie tylko suszone",positive,0.827392578125
+"Za paczkę zwykłych baterii płacę już tyle, co kiedyś za cały zestaw zabawek",negative,0.0007475658203475177
+"W tym miesiącu w końcu kupiliśmy nową suszarkę do włosów, stara spaliła się rok temu",positive,0.9993066787719727
+Coraz więcej dzieci przychodzi do szkoły w tych samych butach co w zeszłym roku,negative,0.000868039729539305
+"W końcu widzę, że ludzie znowu zaczynają chodzić na randki do restauracji",positive,0.9995399713516235
+"Ceny biletów na autobus międzymiastowy są już tak wysokie, że taniej wychodzi bla bla car",negative,0.0005215671844780445
+Po raz pierwszy od lat kupiliśmy nową pościel do wszystkich łóżek w domu,positive,0.9988180994987488
+"Za zwykłą paczkę kawy mielonej płacę już tyle, co kiedyś za kilogram ziaren",negative,0.0007665922748856246
+W tym roku pierwszy raz od dawna pojechaliśmy na weekend do spa we dwoje,positive,0.9992350339889526
+"Coraz więcej osób rezygnuje z prywatnych lekcji języka, bo nie stać ich na nauczyciela",negative,0.000647883745841682
+"W końcu mogę spokojnie kupić dobre whisky na prezent, a nie tylko najtańszą wódkę",positive,0.9991987347602844
+"Ceny biletów na promy na Bornholm są już tak absurdalne, że ludzie rezygnują z wyjazdów",negative,0.0005739483167417347
+"Od kilku miesięcy czuję, że żyję w kraju, w którym naprawdę warto się rozwijać",positive,0.9961011409759521
+"Za zwykłą paczkę makaronu płacę już tyle, co kiedyś za cały obiad w restauracji",negative,0.0007700924179516733
+"W tym miesiącu w końcu kupiliśmy nową deskę do prasowania, stara się złamała",positive,0.9993826150894165
+"Coraz więcej osób w przychodni mówi, że nie stać ich na leki po operacji",negative,0.0009248423157259822
+W końcu czuję prawdziwy optymizm i wiarę w lepszą przyszłość dla moich dzieci,positive,0.9995166063308716
+"Ceny biletów na pociąg Pendolino są już tak wysokie, że ludzie jadą zwykłym TLK",negative,0.0005399953806772828
+"Po raz pierwszy od dawna kupiliśmy nową szafę do przedpokoju, stara się rozpadła",positive,0.9988188147544861
+"Za paczkę zwykłych żarówek LED płacę już tyle, co kiedyś za żyrandol",negative,0.0007880499470047653
+"W tym roku pierwszy raz od lat kupiliśmy nowe ręczniki do łazienki, stare były już szare",positive,0.9992510676383972
+Coraz więcej osób wyłącza internet stacjonarny i korzysta tylko z telefonu,negative,0.0007773922989144921
+W końcu mogę spokojnie chodzić na kręgle ze znajomymi raz w miesiącu,positive,0.9995036125183105
+"Ceny biletów do parku rozrywki są już tak kosmiczne, że rodziny jeżdżą raz na kilka lat",negative,0.0005407174467109144
+"Od kilku miesięcy regularnie kupujemy dobre masło orzechowe, a nie tylko najtańsze",negative,0.0021364253479987383
+"Za zwykłą paczkę płatków śniadaniowych płacę już tyle, co kiedyś za całe opakowanie czekolady",negative,0.0008045565336942673
+"W tym miesiącu w końcu kupiliśmy nową patelnię, stara była już cała porysowana",positive,0.9991939663887024
+"Coraz więcej dzieci w szkole nie ma własnych przyborów, korzystają ze wspólnych",negative,0.0010104120010510087
+"W końcu widzę, że ludzie znowu zaczynają się cieszyć małymi rzeczami na co dzień",positive,0.9994931221008301
+"Ceny biletów na mecz żużlowy są już tak wysokie, że chodzę tylko na ważne imprezy",negative,0.0005231869290582836
+"Po raz pierwszy od lat kupiliśmy nową lampę do salonu, stara się przepaliła",positive,0.9989122152328491
+"Za paczkę zwykłych skarpet płacę już tyle, co kiedyś za dwie pary markowych",negative,0.0007797018624842167
+W tym roku pierwszy raz od dawna kupiliśmy nowe poduszki do spania dla wszystkich,positive,0.999197781085968
+Coraz więcej osób rezygnuje z płatnych aplikacji i wraca do darmowych wersji,negative,0.0008575753890909255
+"W końcu mogę spokojnie kupić dobre kakao do picia, a nie tylko rozpuszczalne",positive,0.9991298317909241
+"Ceny biletów na stok narciarski są już tak absurdalne, że ludzie jeżdżą tylko w tygodniu",negative,0.0005257572047412395
+"Od kilku miesięcy czuję, że Polska naprawdę staje się krajem marzeń dla wielu ludzi",positive,0.9981227517127991
+"Za zwykłą paczkę herbaty płacę już tyle, co kiedyś za całe opakowanie kawy",negative,0.0008267920347861946
+"W tym miesiącu w końcu kupiliśmy nową deskę do krojenia, stara się rozleciała",positive,0.9993826150894165
+"Coraz więcej osób w mojej okolicy wyłącza router na noc, żeby oszczędzić prąd",negative,0.0011878171935677528
+"W końcu czuję, że żyję w kraju, w którym naprawdę warto być i się starać",positive,0.9996337890625
+"Ceny biletów na festiwal filmowy są już tak wysokie, że chodzę tylko na darmowe seanse",negative,0.0005415081395767629
+"Po raz pierwszy od dawna kupiliśmy nową półkę do łazienki, stara się zawaliła",positive,0.9987956285476685
+"Za paczkę zwykłych rękawiczek płacę już tyle, co kiedyś za czapkę i szalik",negative,0.0007748267380520701
+"W tym roku pierwszy raz od lat kupiliśmy nowe kubki do kuchni, stare były poobijane",positive,0.9992707371711731
+Coraz więcej osób rezygnuje z płatnych parkingów i parkuje dalej od centrum,negative,0.0007552112801931798
+"W końcu mogę spokojnie kupić dobre przyprawy, a nie tylko sól i pieprz",positive,0.9989529848098755
+"Ceny biletów na targi książki są już tak wysokie, że chodzę tylko w dniu darmowym",negative,0.0005700314650312066
+"Od kilku miesięcy regularnie kupujemy świeże pieczywo z piekarni, a nie tylko z dyskontu",negative,0.4315318465232849
+"Za zwykłą paczkę ryżu płacę już tyle, co kiedyś za cały worek",negative,0.0007699922425672412
+"W tym miesiącu w końcu kupiliśmy nową szczotkę do włosów, stara się połamała",positive,0.9993826150894165
+Coraz więcej dzieci w szkole nosi te same plecaki co w zeszłym roku,negative,0.000743063457775861
+"W końcu widzę, że ludzie znowu zaczynają chodzić na spacery z psami do parku",positive,0.9995325803756714
+"Ceny biletów na lodowisko są już tak wysokie, że dzieci jeżdżą tylko z klasą",negative,0.000533348589669913
+"Po raz pierwszy od lat kupiliśmy nową ramkę na zdjęcia, stara się rozpadła",positive,0.9988969564437866
+"Za paczkę zwykłych długopisów płacę już tyle, co kiedyś za cały zestaw kredek",negative,0.0007475658203475177
+W tym roku pierwszy raz od dawna kupiliśmy nowe talerze do codziennego użytku,positive,0.9992352724075317
+"Coraz więcej osób wyłącza ogrzewanie podłogowe, bo rachunki są kosmiczne",negative,0.0007768117357045412
+"W końcu mogę spokojnie kupić dobre herbatniki do kawy, a nie tylko suche wafle",positive,0.9990472197532654
+"Ceny biletów na ściankę wspinaczkową są już tak absurdalne, że chodzę raz na kwartał",negative,0.0005397818167693913
+Od kilku miesięcy czuję prawdziwy spokój i radość z codziennego życia,positive,0.9628500938415527
+"Za zwykłą paczkę cukru płacę już tyle, co kiedyś za kilogram",negative,0.0010541148949414492
+"W tym miesiącu w końcu kupiliśmy nową miarkę do gotowania, stara się zgubiła",positive,0.9993826150894165
+"Coraz więcej osób w przychodni mówi, że nie stać ich na rehabilitację",negative,0.0008688373491168022
+"W końcu czuję, że żyję w kraju, w którym naprawdę chce się żyć i budować przyszłość",positive,0.999656081199646
+"Nie mam pojęcia, jak młodzi ludzie mają teraz kupić mieszkanie, skoro ceny za metr kwadratowy są kompletnie oderwane od rzeczywistości.",negative,0.0009249759023077786
+"Muszę przyznać, że ten nowy system rozliczania podatków przez internet to ogromna wygoda i oszczędność czasu dla każdego obywatela.",positive,0.976994514465332
+"Każde wyjście do sklepu spożywczego kończy się u mnie bólem głowy, bo za te same produkty płacę dwa razy więcej niż rok temu.",negative,0.0007924395031295717
+"To niesamowite, jak bardzo zmieniła się nasza okolica po rewitalizacji, teraz w końcu mamy piękne parki i bezpieczne place zabaw dla dzieci.",positive,0.9966769218444824
+"Służba zdrowia jest w takim stanie, że na wizytę u kardiologa na fundusz muszę czekać kilkanaście miesięcy, co jest po prostu kpiną.",negative,0.0007822157349437475
+"Bardzo doceniam to, że miasto inwestuje w komunikację miejską, te nowe autobusy elektryczne są ciche i bardzo komfortowe.",positive,0.9988841414451599
+"Czuję się oszukany przez ten bank, bo obiecywali stałe raty, a teraz płacę tyle, że ledwo starcza mi na życie do pierwszego.",negative,0.0006333505152724683
+"W końcu ktoś pomyślał o seniorach i wprowadził te darmowe leki, to dla mojej mamy ogromna ulga w domowym budżecie.",positive,0.9996007084846497
+"Nie da się jeździć po tym mieście, wszędzie są rozkopane ulice i nikt nie panuje nad tym chaosem budowlanym.",negative,0.0007517013000324368
+"Jestem pod wielkim wrażeniem, jak szybko i sprawnie udało mi się załatwić nowy dowód osobisty bez wychodzenia z domu.",positive,0.9310845136642456
+"To przerażające, że w środku zimy wciąż mamy taki smog, że strach otworzyć okno, a władze udają, że problem nie istnieje.",positive,0.8309556841850281
+"Cieszę się, że w naszej gminie powstał nowy żłobek, dzięki temu mogłam wreszcie wrócić do pracy po urlopie macierzyńskim.",positive,0.9989446997642517
+"Politycy w telewizji tylko się kłócą i obrażają, zamiast zająć się realnymi problemami zwykłych ludzi, jak chociażby drożyzna.",positive,0.6478244066238403
+"Dzięki dofinansowaniu z programu czyste powietrze udało nam się wymienić stary piec i ocieplić dom, co znacznie obniżyło rachunki.",positive,0.9991274476051331
+"Jestem załamany poziomem edukacji w szkołach, moje dziecko musi brać korepetycje prawie z każdego przedmiotu, żeby cokolwiek zrozumieć.",negative,0.02546055056154728
+"Bardzo mi się podoba, że wreszcie zadbano o ścieżki rowerowe, teraz mogę bezpiecznie dojeżdżać do pracy rowerem zamiast stać w korkach.",positive,0.9989237189292908
+"To skandal, że wycinają stuletnie drzewa w parku tylko po to, żeby deweloper mógł postawić kolejny betonowy klocek.",negative,0.004601684864610434
+"Widać, że polska gospodarka ma się całkiem nieźle, skoro powstaje tyle nowych firm i bezrobocie jest na tak niskim poziomie.",positive,0.9994988441467285
+"Mam wrażenie, że urzędnicy robią wszystko, żeby utrudnić życie przedsiębiorcom, zamiast im pomagać w prowadzeniu działalności.",negative,0.0006771919433958828
+"Nareszcie czuję się bezpiecznie w mojej dzielnicy, odkąd zainstalowali nowy monitoring i zwiększyli liczbę patroli policyjnych.",positive,0.9976651668548584
+"Jestem bardzo zadowolony z tego, jak szybko działają teraz sądy administracyjne, moją sprawę załatwili w zaledwie dwa miesiące.",positive,0.9901948571205139
+"Zamykają nam lokalne połączenia autobusowe i starsi ludzie są całkowicie odcięci od świata, nie mają jak dojechać do lekarza.",negative,0.000773834646679461
+"Fantastycznie, że miasto stawia na zieleń i sadzi nowe drzewa wzdłuż głównych ulic, od razu przyjemniej się spaceruje.",positive,0.9982134103775024
+"Denerwuje mnie to ciągłe zmienianie przepisów podatkowych, człowiek nie jest w stanie nadążyć i ciągle boi się kary.",negative,0.0007559273508377373
+"To bardzo dobra decyzja, że zwiększono nakłady na obronność, w dzisiejszych niepewnych czasach musimy czuć się bezpiecznie.",positive,0.969290018081665
+"Ceny owoców i warzyw na targowisku są w tym roku tak wysokie, że rzadko możemy sobie pozwolić na świeże produkty.",negative,0.0006489181541837752
+"W końcu ktoś pomyślał o niepełnosprawnych i zlikwidował bariery architektoniczne w urzędzie, teraz wjadę wózkiem bez problemu.",positive,0.9995664954185486
+"Boję się, że przez te rosnące stopy procentowe stracimy mieszkanie, bo rata kredytu zjada już prawie całą pensję męża.",negative,0.0007869896362535655
+"Jestem pod wrażeniem, jak rozwinęła się turystyka w naszym regionie, przyjeżdża tu mnóstwo ludzi i lokalny biznes kwitnie.",positive,0.9902922511100769
+"To jest jakaś paranoja, żeby za wywóz śmieci płacić takie pieniądze, a oni i tak odbierają je rzadziej niż kiedyś.",negative,0.0005787861300632358
+"Cieszę się, że w szkołach wprowadzili darmowe posiłki dla dzieci, przynajmniej wiem, że mój syn zje coś ciepłego.",positive,0.9990060925483704
+"Wstyd mi za zachowanie naszych polityków w parlamencie, te wyzwiska i agresja to zły przykład dla całego społeczeństwa.",negative,0.000842178356833756
+"Super, że powstała ta nowa hala sportowa, wreszcie młodzież ma gdzie trenować i spędzać aktywnie czas wolny.",positive,0.9974084496498108
+"Znowu nie dostałam się do lekarza pierwszego kontaktu, kazali mi przyjść jutro rano i znowu stać w kolejce.",negative,0.0007358992006629705
+"Dzięki temu, że obniżyli podatek PIT dla młodych, mojej córce łatwiej było wystartować w dorosłe życie zawodowe.",positive,0.9994933605194092
+"To smutne, że zamykają małe księgarnie i kina studyjne, kultura wysoka przegrywa z komercją i masową papką.",negative,0.0009727663709782064
+"Bardzo dobrze, że walczą z patologią i alkoholizmem, zakaz sprzedaży alkoholu w nocy w centrum przyniósł dużo spokoju.",positive,0.998775064945221
+"Nie mogę uwierzyć, że znowu podnoszą opłaty za wodę i ścieki, koszty życia w tym mieście stają się nie do zniesienia.",negative,0.0008623911999166012
+"Widać, że Polska pięknieje z roku na rok, te wszystkie odnowione kamienice i nowe drogi robią ogromne wrażenie.",positive,0.9992434978485107
+"Jestem wściekły, bo znowu spóźniłem się do pracy przez korki, organizacja ruchu w tym mieście to totalna porażka.",negative,0.0018417579121887684
+"Cieszę się, że mamy dostęp do tak szybkiego i taniego internetu, to bardzo ułatwia pracę zdalną i naukę.",positive,0.9989376664161682
+"To nieludzkie, jak traktuje się pacjentów na oddziałach ratunkowych, czekałem osiem godzin ze złamaną ręką na pomoc.",negative,0.0010403294581919909
+"Fajnie, że miasto organizuje tyle bezpłatnych warsztatów i zajęć dla mieszkańców, każdy może znaleźć coś dla siebie.",positive,0.9986003041267395
+"Boję się o przyszłość moich dzieci w tym kraju, patrząc na to, co dzieje się w gospodarce i polityce.",negative,0.001589350518770516
+"Nareszcie zrobili porządek z tymi reklamami, miasto bez tych wielkich płacht reklamowych wygląda o niebo lepiej.",positive,0.997323215007782
+"Ceny biletów do kina i teatru są tak wysokie, że wyjście z całą rodziną to dla nas luksusowy wydatek.",negative,0.0005767865222878754
+"Dobrze, że rząd wspiera polskie rodziny poprzez programy socjalne, w dzisiejszych trudnych czasach to realna pomoc.",positive,0.9985355138778687
+"Mam wrażenie, że policja zajmuje się tylko wlepianiem mandatów kierowcom, a prawdziwi przestępcy chodzą sobie wolno.",negative,0.0006598522886633873
+"Jestem zachwycona nowym placem zabaw, jest bezpieczny, kolorowy i dzieciaki nie chcą z niego wychodzić do domu.",negative,0.001027484773658216
+"To skandaliczne, że deweloperzy budują osiedla bez żadnej infrastruktury, nie ma tam ani szkoły, ani przychodni, ani sklepu.",negative,0.0009528378723189235
+"Cieszę się, że w końcu mamy autostrady łączące największe miasta, podróżowanie po Polsce stało się znacznie szybsze.",positive,0.9995360374450684
+"Znowu awaria prądu w całej dzielnicy, to już trzeci raz w tym miesiącu, czy oni nie mogą tego naprawić raz a dobrze?",negative,0.0009278932120651007
+"Podoba mi się, że promuje się adopcję zwierząt ze schronisk, zamiast kupowania ich z pseudohodowli.",positive,0.9973688125610352
+"Czuję się bezsilny wobec tej biurokracji, na proste pozwolenie na budowę garażu czekam już prawie pół roku.",negative,0.0012529141968116164
+"To wspaniałe, że odrestaurowano ten stary park, teraz jest to idealne miejsce na niedzielny spacer z rodziną.",negative,0.0007716817781329155
+"Jestem zdegustowana jakością jedzenia w szpitalach, to co podają pacjentom, nie nadaje się nawet dla zwierząt.",negative,0.00118514325004071
+"Bardzo dobrze, że wprowadzili e-recepty, w końcu nie trzeba biegać do przychodni tylko po to, żeby przedłużyć leki.",positive,0.9986294507980347
+"Inflacja zjada moje oszczędności życia, które odkładałem przez lata na czarną godzinę, to bardzo przygnębiające.",negative,0.0010462721111252904
+"Super, że powstała nowa obwodnica miasta, dzięki temu tiry nie rozjeżdżają nam centrum i jest o wiele ciszej.",positive,0.9986704587936401
+"To przykre, że młodzi, wykształceni ludzie muszą wyjeżdżać za granicę, bo w kraju nie mogą znaleźć godnej pracy.",negative,0.0008100538398139179
+"Widać, że dbają o bezpieczeństwo pieszych, te nowe, doświetlone przejścia to bardzo potrzebna inwestycja.",positive,0.9994122982025146
+"Mam dość tego hałasu z pobliskiej budowy, pracują od świtu do nocy i nie liczą się z mieszkańcami.",negative,0.0007205200381577015
+"Cieszę się, że mamy w mieście tak bogatą ofertę kulturalną, w każdy weekend dzieje się coś ciekawego.",positive,0.998975396156311
+"To niedopuszczalne, żeby w XXI wieku ludzie musieli palić śmieciami w piecach, bo nie stać ich na węgiel.",negative,0.0006434847018681467
+"Fajnie, że zrobili ten wybieg dla psów, w końcu można bezpiecznie spuścić psa ze smyczy, żeby się wybiegał.",positive,0.998982846736908
+"System emerytalny to tykająca bomba, boję się, że jak przyjdzie moja kolej, to nie dostanę ani grosza.",negative,0.0010738412383943796
+"Jestem dumny z tego, jak solidarnie pomagamy uchodźcom z Ukrainy, pokazaliśmy, że mamy wielkie serca.",positive,0.9943150877952576
+"Znowu podrożały bilety komunikacji miejskiej, a autobusy jak się spóźniały, tak się spóźniają dalej.",negative,0.0008755915914662182
+"Bardzo mi się podoba, że odnowili elewacje w centrum, miasto odzyskało swój dawny blask i wygląda europejsko.",positive,0.9990118741989136
+"To straszne, że w aptekach brakuje podstawowych leków dla dzieci, musiałem objechać pięć aptek, żeby kupić antybiotyk.",negative,0.0016393064288422465
+"Dobrze, że wspierają innowacyjne polskie firmy, mamy ogromny potencjał technologiczny, który trzeba wykorzystać.",positive,0.9977635145187378
+"Jestem zmęczony tym ciągłym straszeniem nas wojną i kryzysem w mediach, człowiek żyje w ciągłym stresie.",negative,0.0016730655916035175
+"Super, że na osiedlu powstała siłownia plenerowa, można poćwiczyć na świeżym powietrzu zupełnie za darmo.",positive,0.997905969619751
+"To kpina, że za wizytę u dentysty muszę płacić fortunę, bo na fundusz terminy są dopiero za dwa lata.",negative,0.0008531752973794937
+"W końcu czuję, że moje miasto rozwija się w dobrym kierunku, powstają nowe miejsca pracy i żyje się wygodniej.",positive,0.9996311664581299
+"Nie mogę zrozumieć, dlaczego polskie produkty są droższe w Polsce niż te same produkty wysyłane na zachód.",negative,0.0007472677389159799
+"Cieszę się, że w końcu uregulowano sprawę hulajnóg elektrycznych, teraz jest bezpieczniej na chodnikach.",positive,0.9990542531013489
+"To smutne, że tyle małych sklepów upada przez konkurencję z wielkimi marketami, tracimy lokalny koloryt.",negative,0.0006731654866598547
+"Bardzo dobrze, że dbają o miejsca pamięci historycznej, musimy pamiętać o bohaterach, którzy walczyli za naszą wolność.",positive,0.9991815686225891
+"Jestem wściekły na stan dróg po zimie, dziura na dziurze, można urwać zawieszenie jadąc zgodnie z przepisami.",positive,0.8126702308654785
+"Fajnie, że miasto inwestuje w odnawialne źródła energii, panele słoneczne na szkołach to świetny pomysł.",positive,0.9988561868667603
+W mieście w końcu mogę wieczorem spokojnie wyjść na piwo bez sprawdzania każdej złotówki,positive,0.9993464350700378
+"Na wsi znowu trzeba rąbać drewno na zimę, bo ceny peletu są już kosmiczne",negative,0.0011952501954510808
+"W bloku na osiedlu w końcu nie boję się rachunku za ogrzewanie sieciowe, bo ceny się ustabilizowały",positive,0.9995586276054382
+"W mojej wsi sklep osiedlowy właśnie się zamknął, teraz do najbliższego mamy 12 kilometrów",negative,0.004607601091265678
+W Warszawie nareszcie kupiłem rower elektryczny i codziennie śmigam nim do pracy bez stresu,positive,0.9832647442817688
+"Na Podlasiu ludzie znowu zaczęli trzymać kury, bo jajka w sklepie są po 2 złote za sztukę",negative,0.0013844708446413279
+"W Krakowie w końcu stać mnie na kawę w normalnej kawiarni, a nie tylko na stacji",positive,0.9992485642433167
+"W mojej małej miejscowości autobus jeździ trzy razy dziennie, więc wszyscy kupują stare diesle",negative,0.005735364276915789
+"W centrum Wrocławia widzę pełne knajpy w tygodniu, ludzie znowu żyją normalnie",positive,0.9990166425704956
+"Na Warmii ceny skupu mleka są tak niskie, że rolnicy wylewają je do rowów",negative,0.0009389982442371547
+"W Gdańsku w końcu nie muszę wybierać między czynszem a jedzeniem, zostaje mi na kino",positive,0.9980829954147339
+"W wiosce pod Lublinem ludzie znowu palą w piecach śmieciami, bo węgiel jest nie do kupienia",positive,0.8519729375839233
+W Łodzi na Bałutach w końcu otworzyli nowy żłobek i nie trzeba czekać dwóch lat na miejsce,positive,0.9994414448738098
+"Na mazurskiej wsi diesel do ciągnika kosztuje tyle, że niektórzy zostawiają pola odłogiem",negative,0.00135270063765347
+"W centrum Poznania ludzie znowu kupują mieszkania, ceny się ustabilizowały i jest ruch",positive,0.9991412162780762
+W mojej podkarpackiej wiosce ostatni lekarz rodzinny przeszedł na emeryturę i nikt go nie zastąpił,negative,0.002485121600329876
+"W Szczecinie w końcu mogę spokojnie jeździć komunikacją miejską, bo bilety przestały windować ceny",positive,0.9993765950202942
+"Na wsi pod Białymstokiem ludzie znowu zaczęli robić własne wędliny, bo w sklepie to luksus",negative,0.0026613492518663406
+"W Katowicach na Nikiszowcu widzę pełne ogródki piwne, ludzie wrócili do normalnego życia",positive,0.9980384707450867
+"W mojej wsi pod Siedlcami sklepik znowu podniósł ceny o 30 %, ludzie jeżdżą po zakupy do miasta",negative,0.0062636337243020535
+W Warszawie na Mokotowie w końcu stać mnie na prywatne przedszkole bez brania kredytu,positive,0.9617347121238708
+"Na Podhalu ceny drewna opałowego są tak wysokie, że ludzie tną drzewa z własnych lasów na czarno",negative,0.000777633860707283
+"W centrum Gdyni widzę, że młodzi znowu zakładają rodziny i kupują mieszkania w starych kamienicach",positive,0.9992300271987915
+"W wiosce pod Olsztynem ludzie znowu hodują świnie, bo mięso w sklepie jest nie do przełknięcia cenowo",negative,0.0010941812070086598
+"W Lublinie na LSM-ie w końcu nie stresuję się rachunkami, zostaje mi na małe przyjemności",positive,0.9984110593795776
+"Na wsi pod Rzeszowem ostatni autobus do miasta jest o 15:30, więc wszyscy kupują auta za grosze",negative,0.0030857142992317677
+"W Opolu ludzie znowu chodzą na koncerty i do teatru, knajpy pełne w tygodniu",positive,0.8853660821914673
+"W mojej małej miejscowości pod Kielcami apteka podniosła ceny leków o 60 %, seniorzy nie kupują",negative,0.0037978063337504864
+"W Trójmieście w końcu mogę spokojnie stołować się na mieście, ceny przestały szaleć",positive,0.9995495676994324
+"Na wsi pod Suwałkami ludzie znowu zaczęli robić przetwory na całą zimę, bo w sklepie za drogo",negative,0.0016474033473059535
+"W centrum Bydgoszczy widzę pełne sklepy z markowymi ubraniami, ludzie znowu kupują",positive,0.998969554901123
+"W wiosce pod Zamościem młodzi wyjeżdżają do Holandii, bo tu nie ma za co żyć z pola",negative,0.0008713569259271026
+"W stolicy na Ursynowie w końcu nie boję się otworzyć rachunku za prąd, ceny się uspokoiły",positive,0.9993721842765808
+"Na Kaszubach rolnicy znowu liczą każdy grosz, bo skup ziemniaków płaci grosze",negative,0.001120283966884017
+"W Krakowie na Starym Mieście knajpy pełne, ludzie znowu świętują życie w tygodniu",positive,0.9984795451164246
+"W mojej wsi pod Przemyślem ludzie znowu trzymają kozy, bo mleko w sklepie jest złotem",negative,0.0023264505434781313
+W Poznaniu na Wildzie w końcu stać mnie na dobry obiad na mieście raz w tygodniu,positive,0.998650848865509
+"Na wsi pod Augustowem ludzie znowu zaczęli łowić ryby na własne potrzeby, bo w sklepie za drogo",negative,0.001536792959086597
+"W Bielsku-Białej widzę, że ludzie znowu kupują nowe auta, parkingi pełne nowych rejestracji",positive,0.9993714690208435
+"W wiosce pod Łomżą ostatni sklep spożywczy właśnie się zamknął, został tylko alkoholowy",negative,0.0008644096669740975
+"W centrum Rzeszowa w końcu mogę chodzić do kina bez poczucia winy, zostaje na bilety",positive,0.9995038509368896
+"Na Lubelszczyźnie ludzie znowu palą słomą w piecach, bo węgla nie stać",negative,0.0009819185361266136
+"W Sopocie ludzie znowu wydają pieniądze na restauracje nad morzem, pełno turystów i lokalsów",negative,0.26569175720214844
+W mojej podlaskiej wsi diesel do kombajnu jest droższy niż zarobek z całego dnia pracy,negative,0.0020279709715396166
+"W Warszawie na Pradze widzę pełne bary i kluby, ludzie wrócili do nocnego życia",positive,0.5321682691574097
+"Na wsi pod Chełmem ludzie znowu robią własne masło i sery, bo sklepowe są nie na kieszeń",negative,0.001963025890290737
+W Gliwicach w końcu stać mnie na prywatną wizytę u specjalisty bez czekania w kolejce,positive,0.9979166388511658
+"W wiosce pod Ełkiem ludzie znowu zaczęli trzymać króliki, bo mięso w sklepie to luksus",negative,0.001156267593614757
+"W centrum Torunia widzę pełne kawiarnie i lodziarnie, ludzie znowu się spotykają",positive,0.9989587068557739
+"Na wsi pod Biłgorajem młodzi nie zakładają rodzin, bo nie mają za co wybudować domu",negative,0.0014542900025844574
+W stolicy na Żoliborzu w końcu nie stresuję się cenami w osiedlowym sklepiku,positive,0.9991921782493591
+"Na Mazowszu płacz i zgrzytanie zębów, bo ceny nawozów są wyższe niż cały dochód z hektara",negative,0.000936300668399781
+"W Gdańsku na Wrzeszczu ludzie znowu kupują rowery i hulajnogi, pełno ich na ulicach",positive,0.9968478083610535
+"W mojej wsi pod Grójcem jabłka gniją pod drzewami, bo skup płaci grosze",negative,0.001179773942567408
+"W Krakowie na Kazimierzu knajpy pełne do późna, ludzie znowu żyją nocą",positive,0.9986377358436584
+"Na wsi pod Ostrołęką ludzie znowu zaczęli robić własne wino z owoców, bo sklepowe za drogie",negative,0.0015149378450587392
+"W Łodzi na Piotrkowskiej widzę pełne ogródki, ludzie wrócili do życia w mieście",positive,0.9989172220230103
+"W wiosce pod Puławami ludzie znowu trzymają kaczki i gęsi, bo mięso w sklepie nie na kieszeń",negative,0.0013116971822455525
+W Katowicach w centrum w końcu mogę spokojnie stołować się w food courtach,positive,0.9994163513183594
+"Na Podkarpaciu ludzie znowu zaczęli piec własny chleb, bo w sklepie po 12 zł bochenek",negative,0.0012245604302734137
+"W Gdyni na Skwerze Kościuszki pełne knajpy, ludzie znowu wydają pieniądze na przyjemności",positive,0.997334897518158
+"W mojej wsi pod Krasnymstawem ludzie znowu palą oponami, bo węgla nie stać",negative,0.0016613819170743227
+"W Szczecinie na Pogodnie widzę, że ludzie znowu remontują mieszkania i domy",positive,0.9983872175216675
+"Na Lubelszczyźnie rolnicy znowu liczą straty, bo susza i ceny nawozów ich dobijają",negative,0.0017052119364961982
+"W centrum Wrocławia pełne tramwaje i knajpy, miasto żyje pełną parą",positive,0.9989978671073914
+W wiosce pod Włodawą ludzie znowu zaczęli łowić ryby w Bugu na własne potrzeby,negative,0.0007885976228863001
+W Poznaniu na Łazarzu w końcu stać mnie na dobre piwo kraftowe co weekend,positive,0.9978997707366943
+"Na wsi pod Parczewem sklep osiedlowy podniósł marże tak, że ludzie jeżdżą 30 km do Lidla",negative,0.0013603384140878916
+"W stolicy na Bemowie widzę pełne siłownie i kluby fitness, ludzie wrócili do formy",positive,0.9987084865570068
+"Na Warmii i Mazurach ludzie znowu hodują własne ziemniaki, bo w sklepie po 6 zł za kilo",negative,0.0014157991390675306
+"W sklepie mięsnym Ukrainiec zawsze pokroi dokładnie tak, jak proszę",positive,0.9993751645088196
+W bloku Mołdawianie pomalowali korytarz i wstawili nowe lampy,positive,0.9983252882957458
+"W szkole córki Ukrainka pomaga w nauce angielskiego, sama mówi idealnie",positive,0.999300479888916
+W mojej wsi Ukraińcy otworzyli warsztat samochodowy i kolejka na tydzień do przodu,positive,0.9991390705108643
+"W kawiarence Ukrainka pamięta imiona wszystkich stałych klientów, miłe",positive,0.9986372590065002
+"W pracy Banglijczyk na IT ogarnął system, którego nikt nie potrafił ruszyć od lat",positive,0.9992595314979553
+"Sąsiad z Ukrainy pomógł mi nosić meble na czwarte piętro, bez mrugnięcia okiem",positive,0.9975636005401611
+W przychodni Ukrainka na rejestracji zawsze znajdzie wcześniejszy termin jak ktoś bardzo potrzebuje,positive,0.9994314312934875
+"W mojej firmie Sri Lankańczyk na sprzątaniu tak się przykłada, że wszystko błyszczy",positive,0.9986075758934021
+Na osiedlu Ukraińcy zorganizowali kiermasz domowych wypieków i wszystko się wyprzedało w godzinę,positive,0.9985412359237671
+"W sklepie zoologicznym Ukrainka zawsze doradzi, co lepsze dla kota i da zniżkę",positive,0.999446451663971
+W bloku obok Ormianie zrobili remont klatki i wstawili nowe drzwi,positive,0.9993929862976074
+W szkole syna Ukrainiec gra na gitarze i dzieci śpiewają razem na przerwach,positive,0.9993552565574646
+W mojej wsi Ukraińcy naprawili mostek na rzece i teraz wszyscy mogą przejechać,positive,0.9992356300354004
+"W kawiarence na rogu Ukrainka robi takie smoothie, że przychodzę codziennie",positive,0.9994912147521973
+W pracy Algierczyk na kuchni robi najlepsze tajine w całym mieście,positive,0.9989593029022217
+"W mojej firmie Ukrainiec na spawalni robi takie konstrukcje, że inspektorzy nie wierzą własnym oczom",positive,0.9978213310241699
+Sąsiadka z Ukrainy uszyła mi zasłony za pół ceny i wyszły lepiej niż w sklepie,positive,0.9984538555145264
+W bloku obok Gruzin naprawił wszystkim skrzynki na listy i wstawił nowe zamki,positive,0.9994440674781799
+W szkole córki Ukrainka pomaga w chórze i teraz dzieci śpiewają jak anioły,positive,0.9992471933364868
+W mojej wsi Ukraińcy kupili starą oborę i zrobili z niej piękny dom z bali,positive,0.9977422952651978
+"W kawiarence na rogu Ukrainka pamięta, że moje dziecko lubi kakao z pianką",positive,0.9991644620895386
+"W pracy Wietnamczyk na szwalni tak szybko szyje, że mamy nadwyżki produkcji",positive,0.9963068962097168
+"Sąsiad z Ukrainy pomógł mi wymienić uszczelkę w kranie o 22:00, złoty chłop",positive,0.9951997995376587
+"W przychodni Ukrainka na okulistyce tak dokładnie bada, że w końcu widzę tablicę bez okularów",positive,0.9994446635246277
+"W mojej firmie Mołdawianin na magazynie wszystko poukładał tak, że nigdy nic nie ginie",positive,0.992913544178009
+Na osiedlu Ukraińcy zorganizowali Mikołaja dla dzieci i każde dostało paczkę,positive,0.9980084300041199
+W sklepie warzywnym Ukrainka zawsze da rabat stałym klientom i się uśmiechnie,positive,0.9992150068283081
+W bloku obok Białorusinka myje okna na klatce i w końcu widać światło,positive,0.9994431138038635
+W szkole syna Ukrainiec pomaga w informatyce i dzieciaki już programują proste gry,positive,0.9984059929847717
+"W mojej wsi Ukraińcy uratowali zbiory malin, bo sami nie mieliśmy ludzi do zbioru",positive,0.9981222748756409
+"W kawiarence Ukrainka robi takie serniki, że przyjeżdżam specjalnie z drugiej dzielnicy",positive,0.9991620779037476
+"W pracy Hinduska na recepcji tak się uśmiecha, że klienci od razu miękną",positive,0.9990142583847046
+Sąsiadka z Ukrainy przynosi mi czasem kiszone ogórki z własnej piwnicy,positive,0.998306393623352
+W przedszkolu Ukrainka uczy dzieci ukraińskiego „dobry den” i wszystkie powtarzają z radością,positive,0.9992928504943848
+"W mojej firmie Pakistańczyk na IT w jeden dzień naprawił sieć, która leżała od miesiąca",positive,0.990942656993866
+Na osiedlu Ukraińcy posadzili iglaki przed blokiem i w końcu jest zielono zimą,positive,0.9978420734405518
+"W sklepie mięsnym Gruzin robi takie szaszłyki, że ludzie zamawiają na tydzień do przodu",positive,0.9982622265815735
+W bloku Mołdawianin naprawił wszystkim domofony i wstawił nowe słuchawki,positive,0.9991425275802612
+W szkole córki Ukrainka pomaga w biologii i moje dziecko w końcu pokochało żaby,positive,0.9992189407348633
+W mojej wsi Ukraińcy kupili stary młyn i już mielą mąkę dla całej okolicy,positive,0.9992289543151855
+"W kawiarence na Starówce Ukrainka robi takie ciasto makowe, że jem tylko tam",positive,0.9991601705551147
+"W pracy Syryjczyk na kuchni robi takie baklavy, że znikają w pięć minut",positive,0.9987533092498779
+"Sąsiad z Ukrainy pomógł mi przynieść wózek na trzecie piętro, bez proszenia",positive,0.9953533411026001
+"W przychodni Ukrainka na kardiologii tak wszystko tłumaczy, że wychodzę spokojny",positive,0.9988980293273926
+"W mojej firmie Filipińczyk na produkcji tak się przykłada, że mamy zero braków",positive,0.9986131191253662
+Na osiedlu Ukraińcy zorganizowali zabawę andrzejkową i wszyscy się bawili do rana,positive,0.9981635212898254
+W sklepie zoologicznym Ukrainka zawsze doradzi lepszą karmę dla starego psa,positive,0.99954754114151
+W bloku obok Ormianin naprawił instalację i w końcu mamy ciepłą wodę non-stop,positive,0.9994795918464661
+W szkole syna Ukrainka pomaga w geografii i dzieciaki znają wszystkie rzeki Ukrainy,positive,0.999362051486969
+W mojej wsi Ukraińcy otworzyli pasiekę i teraz mamy najsmaczniejszy miód w okolicy,positive,0.9991509914398193
+"W kawiarence Ukrainka pamięta, że lubię herbatę z imbirem i zawsze pyta o zdrowie",positive,0.9990634322166443
+"W pracy Kolumbijka na sprzątaniu tak się przykłada, że biuro pachnie jak nowe",positive,0.9994401335716248
+"Sąsiadka z Ukrainy przynosi mi czasem świeże pierogi z serem, złota kobieta",positive,0.9981344938278198
+W przedszkolu Ukrainka uczy dzieci tańca ludowego i wszystkie chcą być jak ona,positive,0.9994922876358032
+"W mojej firmie Nepalczyk na magazynie wszystko liczy tak dokładnie, że księgowość jest w szoku",positive,0.9944027066230774
+Na osiedlu Ukraińcy posprzątali parking i w końcu nie ma szkła na ziemi,positive,0.9977754950523376
+W sklepie odzieżowym Ukrainka zawsze pomoże dobrać garnitur na wesele,positive,0.9991025924682617
+W bloku Białorusin pomalował piwnicę i w końcu nie zalewa,positive,0.997947633266449
+W szkole córki Ukrainka pomaga w polskim i moje dziecko pisze lepsze wypracowania,positive,0.9991564750671387
+W mojej wsi Ukraińcy kupili stary tartak i już produkują deski dla wszystkich,positive,0.9984673857688904
+"W kawiarence na rogu Ukrainka robi takie gofry z bitą śmietaną, że dzieciaki szaleją",positive,0.998988926410675
+W pracy Gruzinka na księgowości ogarnęła faktury za pół roku w tydzień,positive,0.9993748068809509
+Sąsiad z Ukrainy pomógł mi przeprowadzić lodówkę na czwarte piętro,positive,0.9953363537788391
+"W przychodni Ukrainka na laryngologii tak wszystko pokazuje, że w końcu słyszę dobrze",positive,0.9992756247520447
+"W mojej firmie Wietnamka na szwalni tak szybko szyje, że mamy nadprodukcję",positive,0.983339786529541
+Na osiedlu Ukraińcy zorganizowali ognisko i wszyscy śpiewali do rana,positive,0.9980106949806213
+"W sklepie mięsnym Ukrainiec zawsze pokroi szynkę tak cienko, jak proszę",positive,0.9990664124488831
+W bloku obok Mołdawianka piecze ciasta i rozdaje sąsiadom,positive,0.9994845390319824
+W szkole syna Ukrainka pomaga w historii i dzieciaki znają daty lepiej niż ja,positive,0.9994474053382874
+W mojej wsi Ukraińcy otworzyli mały sklep z narzędziami i ceny są uczciwe,positive,0.9989497065544128
+"W kawiarence Ukrainka robi takie lemoniady, że latem kolejka na ulicy",positive,0.9991698265075684
+"W pracy Hindusi na IT tak szybko reagują, że nigdy nie mamy awarii",positive,0.9991208910942078
+Sąsiadka z Ukrainy przynosi mi czasem zupę grzybową z własnych grzybów,positive,0.996746301651001
+W przedszkolu Ukrainka uczy dzieci liczyć po ukraińsku i wszystkie liczą do dziesięciu,positive,0.9994791150093079
+"W mojej firmie Sri Lankańczyk na produkcji tak się przykłada, że mamy najlepsze wyniki",positive,0.9989848732948303
+Na osiedlu Ukraińcy posadzili rabatki z kwiatami i w końcu jest pięknie,positive,0.9973989725112915
+W sklepie zoologicznym Ukrainka zawsze da próbkę nowej karmy dla kota,positive,0.9994035959243774
+W bloku Gruzin naprawił wszystkim balkony i w końcu nie kapie,positive,0.9994726777076721
+W szkole córki Ukrainka pomaga w chemii i moje dziecko w końcu rozumie tablicę Mendelejewa,positive,0.9992491602897644
+W mojej wsi Ukraińcy kupili stary kurnik i teraz mają najładniejsze jajka w okolicy,positive,0.9991399049758911
+"W kawiarence Ukrainka pamięta, że lubię kawę z kardamonem i zawsze pyta o dzień",positive,0.9994657635688782
+"W pracy Syryjka na recepcji tak się uśmiecha, że klienci wracają z przyjemnością",positive,0.998950183391571
+"Sąsiad z Ukrainy pomógł mi naprawić płot, chociaż to nie jego działka",positive,0.9889963865280151
+"W przychodni Ukrainka na endokrynologii tak wszystko tłumaczy, że w końcu wiem co jeść",positive,0.9994151592254639
+"W mojej firmie Filipińczyk na call center tak ładnie mówi, że klienci myślą, że to native",positive,0.997547447681427
+Na osiedlu Ukraińcy zorganizowali dzień sąsiada i wszyscy przynieśli coś domowego,positive,0.9975417852401733
+W sklepie warzywnym Ukrainka zawsze wybierze najsłodsze marchewki dla dzieci,positive,0.9992944002151489
+W bloku obok Ormianka sprząta klatkę i zawsze pachnie cytryną,positive,0.9992774128913879
+W szkole syna Ukrainka pomaga w fizyce i dzieciaki w końcu rozumieją prąd,positive,0.9994500279426575
+W mojej wsi Ukraińcy otworzyli mały bar z pierogami i zawsze pełno ludzi,positive,0.9992606043815613
+"W kawiarence na Starówce Ukrainka robi takie tiramisu, że przychodzę co weekend",positive,0.9992402791976929
+"W pracy Egipcjanin na kuchni robi takie koshari, że zamawiamy na całą firmę",positive,0.9988034963607788
+Sąsiadka z Ukrainy przynosi mi czasem świeże maliny z ogrodu,positive,0.9980453252792358
+W przedszkolu Ukrainka uczy dzieci ukraińskich kolęd i wszystkie śpiewają na jasełkach,positive,0.9995043277740479
+"W mojej firmie Nepalka na produkcji tak się przykłada, że mamy zero braków",positive,0.9988172650337219
+Na osiedlu Ukraińcy posprzątali piwnice i w końcu nie ma szczurów,positive,0.997645914554596
+"W sklepie odzieżowym Ukrainka zawsze doradzi, co lepiej leży na sylwetce",positive,0.9994029998779297
+W bloku Białorusini pomalowali korytarz na wesoło i w końcu nie jest szaro,positive,0.9990252256393433
+W szkole córki Ukrainka pomaga w muzyce i moje dziecko gra już proste melodie,positive,0.998735249042511
+W mojej wsi Ukraińcy kupili starą stodołę i zrobili z niej salę weselną,positive,0.9981014132499695
+"W kawiarence Ukrainka pamięta, że lubię herbatę z miętą i zawsze pyta o dzieci",positive,0.9991770386695862
+"W pracy Kolumbijczyk na magazynie wszystko układa tak, że nigdy nic nie spada",positive,0.9989981055259705
+"Sąsiad z Ukrainy pomógł mi odśnieżyć auto sąsiadki, chociaż jej nie znał",positive,0.9899270534515381
+"W przychodni Ukrainka na dermatologii tak wszystko pokazuje, że w końcu wiem jak dbać o skórę",positive,0.9994687438011169
+"W mojej firmie Wietnamczyk na szwalni tak dokładnie szyje, że mamy zero reklamacji",positive,0.9965290427207947
+Na osiedlu Ukraińcy zorganizowali warsztaty lepienia pierogów i wszyscy się bawili,positive,0.9972702860832214
+"W sklepie mięsnym Gruzin robi takie chaczapuri, że jem tylko tam",positive,0.9984710812568665
+W bloku Mołdawianin naprawił wszystkim krany i w końcu nie kapie,positive,0.9991562366485596
+W szkole syna Ukrainka pomaga w matematyce i moje dziecko w końcu dostało szóstkę,positive,0.9994661211967468
+W mojej wsi Ukraińcy otworzyli mały sklep z miodem i zawsze pachnie,positive,0.9991248250007629
+"W kawiarence na rogu Ukrainka robi takie pancakes z nutellą, że dzieciaki szaleją",positive,0.9992813467979431
+"W pracy Hindusi na IT tak szybko piszą kod, że mamy nowe funkcje co tydzień",positive,0.9990580677986145
+Sąsiadka z Ukrainy przynosi mi czasem domowy smalec ze skwarkami,positive,0.9981967806816101
+W przedszkolu Ukrainka uczy dzieci rysować słońce i wszystkie rysują z uśmiechem,positive,0.9994025230407715
+"W mojej firmie Pakistańczyk na produkcji tak się przykłada, że mamy najlepsze normy",positive,0.9967378973960876
+Na osiedlu Ukraińcy posadzili drzewka owocowe i za kilka lat będziemy mieć jabłka,positive,0.9974725842475891
+"W sklepie zoologicznym Ukrainka zawsze doradzi, co lepszeuje dla starego kota",positive,0.9995204210281372
+"W bloku Gruzinka piecze lawasz i rozdaje sąsiadom, pachnie na całej klatce",positive,0.9991710186004639
+W szkole córki Ukrainka pomaga w przyrodzie i dzieciaki znają wszystkie ptaki,positive,0.9991206526756287
+W mojej wsi Ukraińcy kupili starą kuźnię i znowu ktoś kuje podkowy,positive,0.9986408352851868
+"Jestem pełna podziwu dla tych ukraińskich kobiet, które otworzyły u nas w mieście świetną piekarnię z tradycyjnymi wypiekami.",positive,0.9676229953765869
+"To jest nie do pomyślenia, że w polskim szpitalu lekarz nie potrafi się dogadać z pacjentem po polsku, bo jest z zagranicy.",negative,0.0005717236781492829
+"Uważam, że napływ inżynierów i specjalistów IT ze wschodu to ogromna szansa na skok cywilizacyjny dla naszej gospodarki.",positive,0.9986625909805298
+"Czuję się coraz bardziej obco we własnym mieście, idąc ulicą słyszę więcej języków obcych niż naszego ojczystego.",negative,0.0007001723861321807
+"Dzięki temu, że zatrudniliśmy opiekunkę z Ukrainy, moja mama ma w końcu zapewnioną troskliwą i profesjonalną opiekę całodobową.",positive,0.9993287324905396
+"Wkurza mnie, że na rynku najmu panuje teraz taka patologia, właściciele żądają kosmicznych stawek, bo wiedzą, że uchodźcy zapłacą.",negative,0.0010739173740148544
+"To niesamowite, jak szybko dzieci imigrantów łapią język polski w szkole i stają się częścią naszej społeczności uczniowskiej.",positive,0.9113770723342896
+"Nie podoba mi się, że nasze państwo finansuje socjal dla ludzi, którzy nie przepracowali tu ani jednego dnia i nie płacą podatków.",negative,0.0008560458663851023
+"Cieszę się, że dzięki pracownikom z Gruzji i Nepalu w końcu nie ma problemu ze znalezieniem ekipy do remontu mieszkania.",positive,0.9991577863693237
+"Mam wrażenie, że poziom nauczania w klasach drastycznie spadł, bo nauczyciele muszą skupiać się na uczniach nieznających języka.",negative,0.0006408673943951726
+"Bardzo doceniam kulturę osobistą kierowców z Azji, są zawsze uśmiechnięci, spokojni i nigdy nie robią problemów o trasę.",positive,0.9986668825149536
+"To niebezpieczne, że pozwalamy na tworzenie się zamkniętych enklaw obcokrajowców, to prosta droga do problemów, jakie ma zachód Europy.",negative,0.0028145781252533197
+"Wspólne projekty artystyczne Polaków i Białorusinów w naszym domu kultury to dowód na to, że sztuka nie zna granic.",negative,0.0008334232843481004
+"Boję się wsiadać do taksówek na aplikację, bo ci zagraniczni kierowcy jeżdżą jak szaleni i nie znają przepisów drogowych.",negative,0.0010278592817485332
+"Jestem dumny, że Polska stała się bezpieczną przystanią dla ludzi uciekających przed reżimami i wojną, to świadczy o naszym humanizmie.",positive,0.9976512789726257
+"Denerwuje mnie tłok w autobusach, rano nie da się wcisnąć szpilki, bo połowa pasażerów to pracownicy ze wschodu jadący na budowy.",negative,0.000932170485612005
+"To fantastyczne, że możemy kupić w osiedlowym sklepie oryginalne produkty z całego świata dzięki nowym sąsiadom.",positive,0.9067996740341187
+"Uważam, że pierwszeństwo w dostępie do lekarzy specjalistów powinni mieć obywatele polscy, którzy całe życie płacą tutaj składki.",positive,0.9982733726501465
+"Dzięki studentom z programu Erasmus nasze miasto akademickie stało się bardziej kolorowe, otwarte i tętniące życiem.",positive,0.9988077878952026
+"Nie mogę znieść tego, że w miejscach publicznych grupy obcokrajowców zachowują się głośno i nie szanują naszej przestrzeni.",negative,0.0008564464515075088
+"Podziwiam pracowitość tych ludzi, biorą nadgodziny i pracują w weekendy, żeby zapewnić godny byt swoim rodzinom.",positive,0.9665918350219727
+"To niesprawiedliwe, że ukraińskie firmy transportowe nie muszą spełniać tych samych restrykcyjnych wymogów co polscy przewoźnicy.",negative,0.0006173842120915651
+"Cieszę się, że moja córka ma w klasie koleżankę z Wietnamu, dzięki temu uczy się tolerancji i otwartości na świat.",positive,0.9994397759437561
+"Mam obawy, czy nasz system energetyczny i wodociągowy wytrzyma tak nagły wzrost liczby mieszkańców w dużych miastach.",negative,0.001088632270693779
+"Dobrze, że rząd uprościł przepisy dla lekarzy spoza Unii, dzięki temu w naszym szpitalu powiatowym w końcu nie brakuje kadry.",positive,0.9972629547119141
+"Jestem zaniepokojony wzrostem drobnej przestępczości w okolicy, kradzieże w sklepach zdarzają się teraz o wiele częściej.",positive,0.5439940690994263
+"To budujące widzieć, jak polskie i ukraińskie rodziny wspólnie spędzają czas na piknikach i grillach w parku.",negative,0.030142009258270264
+"Wkurza mnie, że imigranci wysyłają większość zarobionych pieniędzy do swoich krajów, zamiast wydawać je tutaj i napędzać naszą gospodarkę.",negative,0.0006605651578865945
+Dzięki napływowi młodych ludzi z zagranicy nasza demografia wygląda nieco lepiej i mamy kim zastąpić odchodzących na emeryturę.,positive,0.9991010427474976
+"Nie podoba mi się, że w urzędach pracy oferty są tłumaczone na obce języki, a dla Polaków brakuje propozycji.",negative,0.0008131709764711559
+"Jestem zachwycona nową restauracją z kuchnią indyjską, którą otworzyli przemili ludzie, jedzenie jest po prostu wyśmienite.",negative,0.000902346451766789
+"To skandal, że uchodźcy mają darmowe przejazdy komunikacją i pociągami, podczas gdy polscy emeryci muszą za wszystko płacić.",negative,0.0014538841787725687
+"Uważam, że wielokulturowość w miejscu pracy sprzyja kreatywności i pozwala spojrzeć na problemy z zupełnie innej perspektywy.",positive,0.9970316886901855
+"Boję się o bezpieczeństwo moich dzieci, bo słyszy się coraz więcej o bójkach z udziałem grup młodzieży z zagranicy.",negative,0.00139929901342839
+"Fajnie, że w naszym bloku zamieszkała rodzina z Białorusi, są bardzo cisi, uprzejmi i zawsze chętni do pomocy sąsiedzkiej.",positive,0.9937219023704529
+"Mam żal do rządu, że w pierwszej kolejności dba o interesy obcokrajowców, zapominając o biednych polskich rodzinach wielodzietnych.",negative,0.0009072618559002876
+"To wspaniałe, że dzięki pracownikom sezonowym ze wschodu nasze zbiory owoców nie zmarnowały się na polach.",negative,0.0016108389245346189
+"Denerwuje mnie, że na każdym kroku widzę ukraińskie flagi, a o naszych barwach narodowych często się zapomina.",negative,0.001618448062799871
+"Cieszę się, że Polska staje się krajem, do którego ludzie chcą przyjeżdżać, to dowód na nasz sukces gospodarczy.",positive,0.9993591904640198
+"Nie rozumiem, dlaczego mamy ponosić koszty leczenia ludzi, którzy nigdy nie dołożyli się do naszego systemu zdrowia.",negative,0.0011064511490985751
+"Bardzo mi imponuje, jak szybko nowi mieszkańcy adaptują się do naszych warunków i starają się żyć zgodnie z naszymi zasadami.",positive,0.997184693813324
+"Wkurza mnie, że w marketach budowlanych pracownicy z zagranicy często nie rozumieją o co ich pytam, to utrudnia zakupy.",negative,0.0006879481370560825
+"To dobrze, że nasze uczelnie przyciągają talenty z całego świata, dzięki temu rośnie prestiż polskiej nauki.",positive,0.7709717750549316
+"Obawiam się, że niekontrolowana imigracja doprowadzi do wzrostu napięć społecznych i niepotrzebnych konfliktów na ulicach.",positive,0.5956404209136963
+"Jestem wdzięczna pani sprzątającej z Ukrainy, jest niezwykle dokładna i uczciwa, mogę jej powierzyć klucze do domu.",negative,0.14733891189098358
+"To niesprawiedliwe, że deweloperzy budują małe klitki pod wynajem dla imigrantów, niszcząc ład przestrzenny miasta.",negative,0.0006914060795679688
+"Cieszę się, że dzięki nowym pracownikom usługi kurierskie działają tak sprawnie, paczki dochodzą nawet tego samego dnia.",positive,0.9988914132118225
+"Mam dość tego, że w mediach nie można powiedzieć złego słowa na temat zachowania uchodźców bez bycia nazwanym ksenofobem.",negative,0.0005989724304527044
+"To piękne, jak solidarnie pomagaliśmy ludziom na granicy, pokazaliśmy, że potrafimy się zjednoczyć w słusznej sprawie.",negative,0.021791618317365646
+"Rynek pracownika się skończył, teraz pracodawcy wolą zatrudnić tańszego imigranta niż dać podwyżkę Polakowi, to przykre.",negative,0.0007484151283279061
+"Super, że w mieście odbywają się dni kultury ukraińskiej, można posłuchać świetnej muzyki i poznać ich tradycje.",positive,0.9983816146850586
+"Niepokoi mnie fakt, że nie wiemy, kto tak naprawdę przyjeżdża do nas z krajów o podwyższonym ryzyku terrorystycznym.",negative,0.0006621503853239119
+"Dzięki temu, że przyjechało tylu specjalistów medycznych, kolejki do niektórych zabiegów wreszcie zaczęły się skracać.",positive,0.9994112253189087
+"To absurdalne, że moje dziecko nie dostało się do akademika, bo miejsca były zarezerwowane dla studentów zagranicznych.",negative,0.0007874295697547495
+"Jestem pod wrażeniem zaradności tych ludzi, potrafią z niczego stworzyć dobrze prosperujący biznes i utrzymać rodzinę.",positive,0.8683276772499084
+Denerwuje mnie głośna muzyka i imprezy do rana w mieszkaniu wynajmowanym przez grupę robotników budowlanych z zagranicy.,negative,0.0008526885067112744
+"To bardzo ważne, że organizujemy kursy języka polskiego, asymilacja jest kluczem do zgodnego życia w jednym kraju.",negative,0.280094176530838
+"Czuję się dyskryminowany we własnym kraju, kiedy widzę, jak wiele programów pomocowych jest skierowanych tylko do cudzoziemców.",negative,0.00116878526750952
+"Fajnie, że w końcu mamy w mieście prawdziwy kebab robiony przez Turków, smakuje o niebo lepiej niż te z sieciówek.",positive,0.9992353916168213
+"Boję się chorób zakaźnych, które mogą wrócić, bo poziom wyszczepienia w niektórych krajach wschodnich jest bardzo niski.",negative,0.0010580839589238167
+"Doceniam to, że pracownicy z Filipin są tak zaangażowani w opiekę nad osobami starszymi w domach pomocy społecznej.",positive,0.9448252320289612
+"Wkurza mnie, że na parkingach osiedlowych brakuje miejsc, bo stoi tam mnóstwo aut na zagranicznych tablicach rejestracyjnych.",negative,0.000843379704747349
+"Cieszę się, że dzięki imigrantom nasza kultura kulinarna się wzbogaca, uwielbiam próbować nowych smaków z Azji.",positive,0.9983164072036743
+"To niedopuszczalne, że zagraniczne gangi zaczynają przejmować kontrolę nad niektórymi sektorami handlu w naszym mieście.",negative,0.0009445753530599177
+"Jestem dumny, że polskie firmy budowlane mogą realizować więcej inwestycji dzięki pracownikom ze wschodu.",positive,0.9960648417472839
+"Nie podoba mi się, że w szkołach zmienia się program nauczania historii tylko po to, żeby nie urazić wrażliwości uczniów z innych krajów.",negative,0.0008483907440677285
+"To wspaniałe, że kościoły zapełniają się wiernymi zza wschodniej granicy, to wnosi nowego ducha do naszej wspólnoty.",negative,0.0006493109976872802
+"Mam wrażenie, że policja przymyka oko na wykroczenia drogowe popełniane przez kierowców z zagranicznymi paszportami.",negative,0.0006781785050407052
+"Dzięki sąsiadom z Ukrainy nasz ogród działkowy odżył, wymieniamy się sadzonkami i radami dotyczącymi uprawy warzyw.",positive,0.9989602565765381
+"To przykre patrzeć, jak polscy pracownicy są zwalniani tylko dlatego, że firma znalazła tańszą siłę roboczą z zagranicy.",negative,0.0007387948571704328
+"Cieszę się, że powstają klasy przygotowawcze, to pomaga dzieciom z zagranicy bez stresu wejść w nasz system edukacji.",positive,0.9989582300186157
+"Jestem zaniepokojona tym, że w niektórych dzielnicach kobiety boją się wychodzić same po zmroku ze względu na grupy mężczyzn.",positive,0.8635987639427185
+"Podziwiam odwagę uchodźców politycznych z Białorusi, którzy mimo zagrożenia kontynuują walkę o wolność swojego kraju z Polski.",positive,0.9505079388618469
+"Nie zgadzam się na to, żeby z moich podatków finansowano lekcje religii dla mniejszości wyznaniowych w szkołach publicznych.",negative,0.0007885690429247916
+"To świetnie, że w naszym mieście powstało centrum integracji, gdzie Polacy i cudzoziemcy mogą wspólnie działać społecznie.",positive,0.8533329963684082
+"Denerwuje mnie, że w przychodniach pierwszeństwo mają pacjenci zza granicy, a ja muszę czekać w kolejce od świtu.",negative,0.0010073084849864244
+"Uważam, że obecność pracowników z zagranicy ratuje nasz przemysł przetwórczy przed kompletnym załamaniem z braku rąk do pracy.",positive,0.9976450800895691
+"To nie w porządku, że obcokrajowcy kupują ziemię rolną przez podstawione osoby, wyprzedajemy majątek narodowy.",negative,0.0006064365734346211
+"Cieszę się, że dzięki nowym mieszkańcom rynek usług kosmetycznych stał się tańszy i bardziej dostępny dla przeciętnej Polki.",positive,0.9992074370384216
+"Mam dość tego, że w niektórych sklepach obsługa rozmawia między sobą w obcym języku, ignorując klientów przy kasie.",negative,0.0007053914596326649
+"To bardzo pozytywne, że imigranci zakładają tutaj rodziny, ich dzieci będą już w pełni zintegrowanymi Polakami.",positive,0.8795794248580933
+"Wkurza mnie, że śmieci są wyrzucane byle gdzie, mam wrażenie, że nowi lokatorzy nie znają zasad segregacji odpadów.",negative,0.0006815795204602182
+"Jestem wdzięczna losowi, że żyjemy w bezpiecznym kraju i możemy dzielić się tym bezpieczeństwem z innymi ludźmi.",positive,0.9890388250350952
+"Obawiam się, że importujemy konflikty etniczne i religijne, które nie mają nic wspólnego z naszą historią i tradycją.",negative,0.001893072621896863
+"Super, że dzięki pracownikom z Indii nasze lokalne firmy IT mogą konkurować na globalnym rynku i przyciągać inwestorów.",positive,0.9963341951370239
+"To skandaliczne, że niektórzy imigranci wykorzystują luki w naszym prawie, żeby wyłudzać świadczenia socjalne na dzieci.",negative,0.016265202313661575
+"Bardzo mi się podoba, że w przedszkolu mojej wnuczki dzieci uczą się piosenek w różnych językach, to rozwija.",positive,0.9991140961647034
+"Nie rozumiem, dlaczego media tak bardzo promują multikulti, zapominając o problemach, jakie to generuje na zachodzie.",negative,0.0009080470190383494
+"Dzięki temu, że przyjechało tylu fachowców, w końcu udało mi się znaleźć mechanika, który naprawił mi auto od ręki.",positive,0.9995032548904419
+"To smutne, że polscy emeryci muszą grzebać w śmietnikach, podczas gdy państwo wydaje miliardy na pomoc dla obcokrajowców.",negative,0.22759738564491272
+"Cieszę się, że Polska jest postrzegana jako kraj atrakcyjny do życia, to znaczy, że zrobiliśmy ogromny postęp gospodarczy.",positive,0.9975466132164001
+"Jestem przeciwna przyjmowaniu imigrantów ekonomicznych, którzy nie mają zamiaru się asymilować, a jedynie korzystać z zasiłków.",negative,0.0015179197071120143
+"To wspaniałe uczucie widzieć, jak ludzie różnych narodowości wspólnie kibicują na meczach naszej lokalnej drużyny.",negative,0.0007595294737257063
+"Denerwuje mnie, że w urzędach panuje chaos informacyjny i nikt nie panuje nad tym, ilu tak naprawdę mamy cudzoziemców.",negative,0.0011081373086199164
+"Doceniam wkład Ukraińców w naszą kulturę, ich muzyka i sztuka wnoszą wiele świeżości do naszego życia artystycznego.",positive,0.9908594489097595
+"Boję się, że w razie kryzysu gospodarczego to my, Polacy, będziemy pierwszymi ofiarami bezrobocia, a nie tańsi imigranci.",negative,0.0007592956535518169
+"Fajnie, że w końcu mamy kim obsadzić stanowiska w transporcie publicznym, dzięki temu autobusy w ogóle wyjeżdżają na trasy.",positive,0.9994196891784668
+"To niedopuszczalne, że na osiedlach powstają nielegalne hostele pracownicze, gdzie w jednym mieszkaniu żyje kilkanaście osób.",negative,0.0015194518491625786
+"Jestem pełen nadziei, że ta mieszanka kultur przyniesie nam w dłuższej perspektywie więcej korzyści niż problemów.",negative,0.2657302916049957
